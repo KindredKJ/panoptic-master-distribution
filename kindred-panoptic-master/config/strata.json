@@ -1,0 +1,70 @@
+[
+  {
+    "id": "fiscal",
+    "y": 1,
+    "name": "Fiscal Stratum",
+    "systems": [
+      "RetroBank",
+      "Agent-to-Agent Economy"
+    ],
+    "adapter": "retrobank",
+    "operationalMode": "local-ledger"
+  },
+  {
+    "id": "energy",
+    "y": 2,
+    "name": "Energy Stratum",
+    "systems": [
+      "KINDRED-WATT"
+    ],
+    "adapter": "kindred-watt",
+    "operationalMode": "external-adapter-required"
+  },
+  {
+    "id": "communications",
+    "y": 3,
+    "name": "Communications Stratum",
+    "systems": [
+      "G3T Connected",
+      "Brainstem InTouch"
+    ],
+    "adapter": "g3t-connected",
+    "operationalMode": "external-adapter-required"
+  },
+  {
+    "id": "infrastructure",
+    "y": 4,
+    "name": "Infrastructure Stratum",
+    "systems": [
+      "Kindred Cloud",
+      "Edge Runtime",
+      "KindredVM"
+    ],
+    "adapter": "kindred-cloud",
+    "operationalMode": "external-adapter-required"
+  },
+  {
+    "id": "intelligence",
+    "y": 5,
+    "name": "Intelligence Stratum",
+    "systems": [
+      "H^",
+      "IAMI-X",
+      "Swarm Core",
+      "Optimization Suite"
+    ],
+    "adapter": "local-intelligence",
+    "operationalMode": "local"
+  },
+  {
+    "id": "spatial",
+    "y": 6,
+    "name": "Spatial / Digital Reality Stratum",
+    "systems": [
+      "StrataCast",
+      "AI Crawl"
+    ],
+    "adapter": "stratacast",
+    "operationalMode": "external-adapter-required"
+  }
+]

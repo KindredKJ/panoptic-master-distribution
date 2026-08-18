@@ -1,0 +1,1203 @@
+{
+  "schemaVersion": "1.0",
+  "artifactClass": "GITHUB_SANITIZED_SOURCE_MIRROR",
+  "generatedAt": "2026-08-18T00:47:24.6103809-06:00",
+  "fileCount": 239,
+  "files": [
+    {
+      "path": "mirror\\kindred-panoptic-master\\.git\\config",
+      "bytes": 130,
+      "sha256": "05BECDB83BB897F6103C8D91439E2E9092144EDF5B3955A746FCE4975C12BFDC"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\.git\\description",
+      "bytes": 73,
+      "sha256": "85AB6C163D43A17EA9CF7788308BCA1466F1B0A8D1CC92E26E9BF63DA4062AEE"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\.git\\HEAD",
+      "bytes": 23,
+      "sha256": "F6F2B945F6C411B02BA3DA9C7ACE88DCF71B6AF65BA2E0D89AA82900042B5A10"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\.git\\hooks\\applypatch-msg.sample",
+      "bytes": 478,
+      "sha256": "0223497A0B8B033AA58A3A521B8629869386CF7AB0E2F101963D328AA62193F7"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\.git\\hooks\\commit-msg.sample",
+      "bytes": 1972,
+      "sha256": "EFC1401B0E99D1FF51494D154D98B46C1E99059BCD8BF9F73CECDE19FD3EB23B"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\.git\\hooks\\fsmonitor-watchman.sample",
+      "bytes": 4611,
+      "sha256": "9159720099AD5595B8E66645CBFD47763C1E920F46E0B50AE75E642BBEC57EF0"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\.git\\hooks\\post-update.sample",
+      "bytes": 189,
+      "sha256": "81765AF2DAEF323061DCBC5E61FC16481CB74B3BAC9AD8A174B186523586F6C5"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\.git\\hooks\\pre-applypatch.sample",
+      "bytes": 424,
+      "sha256": "E15C5B469EA3E0A695BEA6F2C82BCF8E62821074939DDD85B77E0007FF165475"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\.git\\hooks\\pre-commit.sample",
+      "bytes": 1649,
+      "sha256": "57185B7B9F05239D7AB52DB045F5B89EB31348D7B2177EAB214F5EB872E1971B"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\.git\\hooks\\pre-merge-commit.sample",
+      "bytes": 416,
+      "sha256": "D3825A70337940EBBD0A5C072984E13245920CDF8898BD225C8D27A6DFC9CB53"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\.git\\hooks\\pre-push.sample",
+      "bytes": 1374,
+      "sha256": "ECCE9C7E04D3F5DD9D8ADA81753DD1D549A9634B26770042B58DDA00217D086A"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\.git\\hooks\\pre-rebase.sample",
+      "bytes": 4898,
+      "sha256": "4FEBCE867790052338076F4E66CC47EFB14879D18097D1D61C8261859EAAA7B3"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\.git\\hooks\\pre-receive.sample",
+      "bytes": 544,
+      "sha256": "A4C3D2B9C7BB3FD8D1441C31BD4EE71A595D66B44FCF49DDB310252320169989"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\.git\\hooks\\prepare-commit-msg.sample",
+      "bytes": 1492,
+      "sha256": "E9DDCAA4189FDDD25ED97FC8C789ECA7B6CA16390B2392AE3276F0C8E1AA4619"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\.git\\hooks\\push-to-checkout.sample",
+      "bytes": 2783,
+      "sha256": "A53D0741798B287C6DD7AFA64AEE473F305E65D3F49463BB9D7408EC3B12BF5F"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\.git\\hooks\\sendemail-validate.sample",
+      "bytes": 2308,
+      "sha256": "44EBFC923DC5466BC009602F0ECF067B9C65459ABFE8868DDC49B78E6CED7A92"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\.git\\hooks\\update.sample",
+      "bytes": 3650,
+      "sha256": "8D5F2FA83E103CF08B57EAA67521DF9194F45CBDBCB37DA52AD586097A14D106"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\.git\\info\\exclude",
+      "bytes": 240,
+      "sha256": "6671FE83B7A07C8932EE89164D1F2793B2318058EB8B98DC5C06EE0A5A3B0EC1"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\.gitignore",
+      "bytes": 76,
+      "sha256": "692EDED659B8F84673520E2ADC190A78B8F9781EC8A3FEEC6871F2927E0A5DEF"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\config\\adapters.json",
+      "bytes": 859,
+      "sha256": "93CE019D8BA868A0E65F6FA1544ECBF44588237E2B2E749D7AD497A3389E6967"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\config\\cube-topology.json",
+      "bytes": 2708,
+      "sha256": "318F06636D090898E259FB12A3AAFFF18925E0CCBABD0E252DBF22BDED810A06"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\config\\geometry.json",
+      "bytes": 2689,
+      "sha256": "8B057F13A3F957478A9D170D05D321D8858DD5ADA77E51E0760DC62EC8FE8BD1"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\config\\policies.json",
+      "bytes": 780,
+      "sha256": "C8D4239E1EA44A60A8DF1E0014D5AA0F48674A9F0DB23C45DA1A10F3B03821FB"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\config\\strata.json",
+      "bytes": 1393,
+      "sha256": "1E3350005A5F8EA6EC48210BED946D75553B8EA525CB9EA170EF6F1F50039942"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\config\\volumes.json",
+      "bytes": 6184,
+      "sha256": "D4FE081002B7297A16BEFCDC5E745F9B98399CBF83F9FB6AC9A4697B530C03E5"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\docs\\ARCHITECTURE.md",
+      "bytes": 2870,
+      "sha256": "B2A56F136C93A5149102B84BB15656EC533F791115ACB091FE1EF24F7EA3057E"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\docs\\SECURITY.md",
+      "bytes": 981,
+      "sha256": "FFDEAEB2AECC93434566166C73752C6BE62FC0EF01DAC18FC850011CF5C9BA91"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\Invoke-KindredPanopticMasterDemo.ps1",
+      "bytes": 102,
+      "sha256": "DB17BF1A2E578185E82502952B40100080676B021FF9E1DE4EB510879F5B2E1D"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\Open-KindredPanopticMaster.ps1",
+      "bytes": 179,
+      "sha256": "68D7A144A054659EBD683430BFDF121902B77C009A9E6DC103D82EA18B604617"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\package.json",
+      "bytes": 617,
+      "sha256": "B328C4A750FE52134FABF3355BCFA480EA3C2A9EB42F057E481412218EA09D22"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\README.md",
+      "bytes": 1107,
+      "sha256": "D6DEDAB532A502EE9383AC4273DF19456EF5FD453D07213C72888BB36BA0369B"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\scripts\\demo.mjs",
+      "bytes": 1637,
+      "sha256": "A0D178A5016F61BFF11F58F1428F4D0B4678F417F23E56E2023F86B7ABF23F47"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\scripts\\verify-master.mjs",
+      "bytes": 399,
+      "sha256": "76DD8ACEC4D5789D8CC313DE8B6D92839F5FB7EF2E29A91245F915B647AAF34C"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\adapters\\registry.mjs",
+      "bytes": 881,
+      "sha256": "49814810C6ACEF5390201B59F667C413BB84B8BB28FB28B1FBEAC3E3E496C723"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\api\\dashboard.html",
+      "bytes": 2583,
+      "sha256": "34A33C4F38DEF76A776CF0EE58E8D88E54C9921C49EB8A9BE01A74FB28F01DF9"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\api\\server.mjs",
+      "bytes": 5325,
+      "sha256": "DD0DFA2C70568420E143C66A303B54005FD0CFCC136F736FCE37236E2EBB29F9"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\authority\\approval-service.mjs",
+      "bytes": 1839,
+      "sha256": "4132DA373883E467D486E405AAC8E0C34F845164EBAD780DDCF19051A2731944"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\authority\\founder-keys.mjs",
+      "bytes": 1269,
+      "sha256": "0B8813E1A704384D7ABA362971AEDAB82677F4699BEDFD75AF15DD86D61694D4"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\brainstem\\index.mjs",
+      "bytes": 1049,
+      "sha256": "257094FAE08BE82600E19629501978688E84339DD7F1F56EEE0E4259D4384F54"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\core\\config.mjs",
+      "bytes": 511,
+      "sha256": "929331C8C3BC0E77DF8FCF0D875EC6D33FBB63A042401DE52D79EF059FDCD439"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\core\\paths.mjs",
+      "bytes": 187,
+      "sha256": "F56E4BDAAE0FF6B0E1F966E992F61FC751F57CEF4E600526D88468D82F4DF71F"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\core\\stable-json.mjs",
+      "bytes": 362,
+      "sha256": "DEE894CCBEA29F1EBBB9499A71E09F544B2C8F59B2598F4090AE5CBAA0EE353E"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\core\\store.mjs",
+      "bytes": 1537,
+      "sha256": "77B9F480C746E508A81F6D8827672AE9FF4037A9BC55CE8FE455CCB987E8651C"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\emit\\index.mjs",
+      "bytes": 1575,
+      "sha256": "3AE4CE81147900063E34FE51FBEEA12492057833F8A7E0A10F5F3AEDE09C0C4F"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\evidence\\index.mjs",
+      "bytes": 2810,
+      "sha256": "A5836304A0DEA2DE43883895F9FE2AF60F05EE129DAB7F7E98D8ACD13F48380D"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\geometry\\axes.mjs",
+      "bytes": 1140,
+      "sha256": "3C9D575C57BA29DFE4B23E144BF8B35CDCAB91F0470279F68ECE8C87E68969BB"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\geometry\\cube-topology.mjs",
+      "bytes": 2050,
+      "sha256": "EF395463475A758BE316BBC7F8A0CA3710EE8CA22C4B472610BF38D5832AD8D4"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\geometry\\volume-engine.mjs",
+      "bytes": 3986,
+      "sha256": "66AE1AF803F2343D21DC5461E5307841C5D7C19FA2D7F4E22CEF6B352C088EDC"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\meta-control\\index.mjs",
+      "bytes": 481,
+      "sha256": "AC03F3A72E356F0F60A9EFA06603B8DE92783540D56B815AEE9CB1E8EE252E97"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\panoptic\\read-model.mjs",
+      "bytes": 2610,
+      "sha256": "CE5A25498F9776E20A633C70582B87752A986F4EF328047CB636FA46142DAE09"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\port-zero\\index.mjs",
+      "bytes": 583,
+      "sha256": "4921EAABAFCAE7B07BF63387F7A6AC438651ADB1289DC4182ABFE9BC92AA4249"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\registry\\volume-registry.mjs",
+      "bytes": 2993,
+      "sha256": "22A3DE0E9ABE8D890B897FE5F770D43C35A20F663DF43F5EF58DBCE3A8EA6E4B"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\retrobank\\index.mjs",
+      "bytes": 993,
+      "sha256": "1A2BE7F7C7A6534A552FDA41D3AD6AFFBD52CB391CB5C9A12FAD1CA9BD0DD49B"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\runtime\\pipeline.mjs",
+      "bytes": 2981,
+      "sha256": "29F6A08D1BE136712F0A83AD8962E146CD30DB42A2F61D432543B6BC21575789"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\runtime\\system.mjs",
+      "bytes": 1533,
+      "sha256": "50B8430835599D46FAE174E445A94B91D28A91EF3C46DEA07457EC143260A037"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\uqr\\index.mjs",
+      "bytes": 610,
+      "sha256": "DA7632C960E984DE70C57AC89B42C76B534476D622F58C818B4C439D4401CEF5"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\Start-KindredPanopticMaster.ps1",
+      "bytes": 104,
+      "sha256": "8B7EE7CED223909F116A526BD78C6798794291F11475F0E10290E284AF27CB29"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\Test-KindredPanopticMaster.ps1",
+      "bytes": 360,
+      "sha256": "57B27E297AE683B3AC4AA2D0A5031628E4D019A44319EA7DE545E6ED7CFCAAB9"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\test\\master.test.mjs",
+      "bytes": 4610,
+      "sha256": "CB70E5BFDF19E415CDD4F9C7A2E3113CAFD6D3C14BF49EF0BBBD39D47165BE0D"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.direct-integrator-backup\\20260818-001632\\.gitignore",
+      "bytes": 136,
+      "sha256": "65B9B39394785ED5CF335B3CA97CE86C875976AF85FE38F754BF8C58656A7E84"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.direct-integrator-backup\\20260818-001632\\MASTER-OPERATOR-MANUAL.md",
+      "bytes": 1239,
+      "sha256": "CD492F72E966D500A58E39A2FCBF99A01F76AAE6E7C3E462226F2CD556D1286F"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.direct-integrator-backup\\20260818-001632\\specs\\ADAPTER-CONTRACT.md",
+      "bytes": 719,
+      "sha256": "9F5267DACE982379C8CF5D346AE1C5B4C64B3DE898493A68BDEDC14ADE654B20"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\COMMIT_EDITMSG",
+      "bytes": 85,
+      "sha256": "48D6E8ABC7402CBB7C753E5920EBD4E28E58F8597321EEC7035E5B5BB8894AE0"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\config",
+      "bytes": 130,
+      "sha256": "05BECDB83BB897F6103C8D91439E2E9092144EDF5B3955A746FCE4975C12BFDC"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\description",
+      "bytes": 73,
+      "sha256": "85AB6C163D43A17EA9CF7788308BCA1466F1B0A8D1CC92E26E9BF63DA4062AEE"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\HEAD",
+      "bytes": 60,
+      "sha256": "5EE555732A84E315B6B4A30792A0BC23C941D16F3343833A2F0C37178691E492"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\hooks\\applypatch-msg.sample",
+      "bytes": 478,
+      "sha256": "0223497A0B8B033AA58A3A521B8629869386CF7AB0E2F101963D328AA62193F7"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\hooks\\commit-msg.sample",
+      "bytes": 1972,
+      "sha256": "EFC1401B0E99D1FF51494D154D98B46C1E99059BCD8BF9F73CECDE19FD3EB23B"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\hooks\\fsmonitor-watchman.sample",
+      "bytes": 4611,
+      "sha256": "9159720099AD5595B8E66645CBFD47763C1E920F46E0B50AE75E642BBEC57EF0"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\hooks\\post-update.sample",
+      "bytes": 189,
+      "sha256": "81765AF2DAEF323061DCBC5E61FC16481CB74B3BAC9AD8A174B186523586F6C5"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\hooks\\pre-applypatch.sample",
+      "bytes": 424,
+      "sha256": "E15C5B469EA3E0A695BEA6F2C82BCF8E62821074939DDD85B77E0007FF165475"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\hooks\\pre-commit.sample",
+      "bytes": 1649,
+      "sha256": "57185B7B9F05239D7AB52DB045F5B89EB31348D7B2177EAB214F5EB872E1971B"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\hooks\\pre-merge-commit.sample",
+      "bytes": 416,
+      "sha256": "D3825A70337940EBBD0A5C072984E13245920CDF8898BD225C8D27A6DFC9CB53"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\hooks\\pre-push.sample",
+      "bytes": 1374,
+      "sha256": "ECCE9C7E04D3F5DD9D8ADA81753DD1D549A9634B26770042B58DDA00217D086A"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\hooks\\pre-rebase.sample",
+      "bytes": 4898,
+      "sha256": "4FEBCE867790052338076F4E66CC47EFB14879D18097D1D61C8261859EAAA7B3"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\hooks\\pre-receive.sample",
+      "bytes": 544,
+      "sha256": "A4C3D2B9C7BB3FD8D1441C31BD4EE71A595D66B44FCF49DDB310252320169989"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\hooks\\prepare-commit-msg.sample",
+      "bytes": 1492,
+      "sha256": "E9DDCAA4189FDDD25ED97FC8C789ECA7B6CA16390B2392AE3276F0C8E1AA4619"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\hooks\\push-to-checkout.sample",
+      "bytes": 2783,
+      "sha256": "A53D0741798B287C6DD7AFA64AEE473F305E65D3F49463BB9D7408EC3B12BF5F"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\hooks\\sendemail-validate.sample",
+      "bytes": 2308,
+      "sha256": "44EBFC923DC5466BC009602F0ECF067B9C65459ABFE8868DDC49B78E6CED7A92"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\hooks\\update.sample",
+      "bytes": 3650,
+      "sha256": "8D5F2FA83E103CF08B57EAA67521DF9194F45CBDBCB37DA52AD586097A14D106"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\index",
+      "bytes": 6485,
+      "sha256": "00871DEAD02D3F659092F76C64C298341D8414C7B5E4664DDFD844333C3D9A79"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\info\\exclude",
+      "bytes": 240,
+      "sha256": "6671FE83B7A07C8932EE89164D1F2793B2318058EB8B98DC5C06EE0A5A3B0EC1"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\logs\\HEAD",
+      "bytes": 432,
+      "sha256": "022D3E2107CCFAC839E988ABF637256137BAA387C74E16E3FE09EAB18F4EFDD2"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\logs\\refs\\heads\\integration\\panoptic-master-20260818-000339",
+      "bytes": 432,
+      "sha256": "022D3E2107CCFAC839E988ABF637256137BAA387C74E16E3FE09EAB18F4EFDD2"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\02\\c8645a400ffddb4ad7a14edc9dd98398bd99a6",
+      "bytes": 224,
+      "sha256": "65C9BD7F1BFE69C1A73EE35F03F863F42052F6F25487E616B3D8A919B755048F"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\0b\\933c10951733a37f28fd65db18b448ade1153a",
+      "bytes": 535,
+      "sha256": "44FDC24D4E700F27A9938602B02AB0A6EC19FD585079EAEBC9EA13DAE814B6BA"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\0b\\abe4246d78a1c23423fb581a948063e681e97d",
+      "bytes": 765,
+      "sha256": "ED9BB2C7FCE07916C68AE499824527DA344B11DE32227569944B0F15A1647118"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\0d\\929724815c9391f8587bb1c45d247ff10635de",
+      "bytes": 807,
+      "sha256": "46B86F2D86C23637963CC57DD0ADF83F38B8B834A1F80763E493554E3A752139"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\0d\\c520e94b8aed4af243601174bb4670908bf895",
+      "bytes": 413,
+      "sha256": "EB0E1B472AE3BEAB0CFA5AC7D143B429DEA0E4A87295AC3E4E8E83A9E247F1FD"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\12\\9c2864727ed0f6e68c289de002957258aecf0a",
+      "bytes": 97,
+      "sha256": "3DF01A632690A1A3401DF12CB67CD47006E1ABE5E9F168B9D8A9A9B30BCBE4FC"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\14\\2c645b6a16205625c78e7f98e805c12d0b3b28",
+      "bytes": 363,
+      "sha256": "5217F9CD4A7E254498C587C21E4280AE638BBA180587AA54D1E7CB4F06508F63"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\19\\1dc673945c95c133af790a62c0b6c90f30c43c",
+      "bytes": 464,
+      "sha256": "2148DF9E4EB5B0642DC0142747EBCC268132B11F587D69B47E86520C190EF364"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\19\\3d3b36ab213067536aee8905ab9b5a5d0cb0eb",
+      "bytes": 190,
+      "sha256": "C17999D9FA504C328B54FD76C4C7AE928801C198F9A819DEEB616C3DB4332D31"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\1a\\d62e48caaf90abe4356a53b490db2bab905a18",
+      "bytes": 534,
+      "sha256": "1927836C7B86F858EB7E6F3D5D8012B04A1972A5FAF5B76049798C2CCCCC383B"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\1c\\35c7e9646c230818639a46d6df910f04b65548",
+      "bytes": 533,
+      "sha256": "539228A165C6E733E8EE619D563C886804A10794E7F53C05CFE5BEAC80920F9F"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\1f\\87746f4acf71c699035a52e958d06e0be85120",
+      "bytes": 211,
+      "sha256": "214AD18D1936D4AFD762390E29F9688D457B8DD91B2E6B8D81B2827745AA07E5"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\21\\d5cdd07adb0f845b9d61f5c36832add8855a7b",
+      "bytes": 414,
+      "sha256": "1A347B5709B49F8191416761FCDBC8A3099D29E42F67AC61234D0DB64E2B076F"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\23\\089161f74359da940b1672973995e98a40ffdc",
+      "bytes": 183,
+      "sha256": "FF0DF1C6DFA4C46DA983A5AE496616AB823181C6D667EF45A02E70703A6B7507"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\26\\ce729de31887cf9fc71bf3a3026f6a8f52d555",
+      "bytes": 456,
+      "sha256": "BC18D84C9CC6568DDB26CE201B6BE2F9A4F9B1A09DE6BE61D56B504AA9A21613"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\2e\\6f33dd035da732b540450191c3c08dca7b280b",
+      "bytes": 150,
+      "sha256": "FCCAD3FE27304B932BCBC5C5660D521853BCF71DBC32F81C7811F01E68438E45"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\2f\\45bc8f35ab6647e1299081c87b9cd3f21c725a",
+      "bytes": 1154,
+      "sha256": "2058E095F34E69DEBB45C62795F3E302E77595B2DC6456F41EC8DFA57482686D"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\32\\62c2e2ebbe9f686924e39d1fbf2f3c36d5b48f",
+      "bytes": 531,
+      "sha256": "445A6598DBFC31A4FBE04F90718C04A8F29AE03E6824A62CF861B2CF15FAACEC"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\32\\6efcf2782e62dc1749056937f39eb014c19422",
+      "bytes": 372,
+      "sha256": "617398D3511826D2333E9734747D91BEA944384278E66AC18588E3D5BADC9041"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\34\\2a976a7b987097372d79095012991c38251719",
+      "bytes": 1918,
+      "sha256": "B8E7B0E31D179396D4D7086E05F8A8C6E1BEE71106D47F3630ED5129C6E750C9"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\39\\e23db3f65c148d5c7327aac41f0e225ea263ed",
+      "bytes": 681,
+      "sha256": "2EFE6317280BC268EA32B1807DA49CD6010B7E1029AB4EA61DF5B0798521B157"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\40\\e1e53cdb7282217c9dc8849c39bc7a843b6dd0",
+      "bytes": 734,
+      "sha256": "4B679656F0D1C1C67FF8190D7AEDBD4171E364ABD9E14095772F26C5935C2CDD"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\45\\49e7b9a26df1511311d1651ba9abad88d8e446",
+      "bytes": 57,
+      "sha256": "02D20F9B38534CD2A5CA7703ABB17EA8FF01415DC3C5141ECCD02C223EA5BE09"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\46\\5054b4b606f92670d56638604a27c147f6c5c0",
+      "bytes": 1040,
+      "sha256": "0EE7EE5BBA33E4850F3ED969FC62B8BD2AFBFEA71F6916D19B21273AF6E1C8D3"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\48\\fac8159970cf1d5c825ea71f9e4aa50ae7890e",
+      "bytes": 533,
+      "sha256": "17A380F3DE85FC89FA7F8BF41FE16901D4C9F74B258AB30BB531872F8B124B2E"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\4b\\6a410f0c6752e8784be338662987ca03ef5b94",
+      "bytes": 535,
+      "sha256": "0FC49A389520F868D920F2599910E3FD7C2638D8B32D5BF7D91896A3CC4E1075"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\53\\463992181f17bfdb85d1d78f086803993189a3",
+      "bytes": 269,
+      "sha256": "A672EF3631575A92CFB5AD3ABEE9FC0AD5DA32EF2E40E242E442801D0272EB51"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\55\\a4c15d5b42a33fdaf15fc3af61f412b8b8975c",
+      "bytes": 213,
+      "sha256": "7198DF8F728D787D3F52C58299A22B478F4B4704A8A3FA878E097CB4EE6EFC2C"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\56\\076fc8336253f63ba01504188315214120ea1f",
+      "bytes": 467,
+      "sha256": "7D53EAF6F046AA93E2106BA7A514D2CED01BB7C8563E55A940743CCD9F241BA3"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\58\\be7786122ee651b16acc806529833a6f01269b",
+      "bytes": 486,
+      "sha256": "4BD1AB92788AABC5559D06DADD068D9C4B3A0855BD637A9DAB262045C0935A93"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\5a\\29f3dcce47bf0e91859d8335f0ffd681c58d74",
+      "bytes": 389,
+      "sha256": "73CBCC9742ED71628810B3EF68A5A409D53570BD1C703CB25251A480F7E09E63"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\5b\\5100f58426210450b79be74ebea5aa0cd208cd",
+      "bytes": 59,
+      "sha256": "1BA93307DD23F94A00E71505A467DCAA15C0D90320EE3357099C45B46BA5988F"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\64\\31d7daacb041848fd7f7fd12d4ff5406621748",
+      "bytes": 225,
+      "sha256": "EBAB915677D7176335C2C4EF16CA1848E9ACBE9BA7A64152784070BDBEE547B9"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\64\\99491945234ee9b3652ba0352aa46bddde8148",
+      "bytes": 58,
+      "sha256": "D1EBDC98AAEDD2F669744457E5BE79CD300BDEC5DEE6EAFBD095AB699B41F18A"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\6a\\a0702ef5e503a2ef37df9c0b4882482ddee0b7",
+      "bytes": 121,
+      "sha256": "040CCD28DAFED0BB8CD53F0B4BA91F863825EA96A8ADB03EDA8D9014E63AA004"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\6c\\6d345750388312e31231c26f06a8141fcfec00",
+      "bytes": 602,
+      "sha256": "18D6D78B0660B4B1B12CD9D5CDBD9362E56C598ADE144A401CFFACCBF88BCEB2"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\6e\\2d3cb1b32c27e7ce0cbdec7527cafdb4911de2",
+      "bytes": 534,
+      "sha256": "439F4DFF30A37A27FD7EC4D86DF3C51734ADD50DBA9378F0C00240CD7C3635FF"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\6f\\69f62299f148c14d54028cc4af42ce090cb7f0",
+      "bytes": 129,
+      "sha256": "42E1020D99CB34862092317AE60D0A202BD22CBA4EDE18DDDC1E06DE5625C4E7"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\70\\031a2d9ed099cd3bcd68523cba01af452325fc",
+      "bytes": 347,
+      "sha256": "8CE6F3EBB48189A7C91DE7965CFDDA70F940ACD8E3FD431E7AE820AF438986C9"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\72\\253d279ceadb8438e479c4b07b1b904620670c",
+      "bytes": 88,
+      "sha256": "887429E36E197E2F9476DC3B1B2208A1CB155CC7D2EDF1E181755554BF372FD5"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\75\\497e5c15856070d9a0edb4987f7d3aa4b05054",
+      "bytes": 55,
+      "sha256": "DC05BC11A291104D77E455EFC4E144C8E0DC10F464CE677A442BC3707FB9ADFC"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\76\\6e6bb1ab9bd8789aef7f72e0886d4c5a795fbd",
+      "bytes": 389,
+      "sha256": "652454E2BE85408147720121D71B7286E87FEB25DC852C3C8271558A107619D1"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\7a\\4bad873a48a526d110c04acaf2b8858945f0d1",
+      "bytes": 7314,
+      "sha256": "4AD2104D52076B5E210852B28DC946EC95B5A9F915E80AD72080683CF5F44209"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\7c\\69da1854ed97cd1d34abd67fc4d815eb46b451",
+      "bytes": 118,
+      "sha256": "FE2C50BDA5384437813BCB661FD8F7DB0D7A24E1E098C716278C5F1128EADDA4"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\7d\\b3c8ca23fd6df03f08173e5bb8f42073707809",
+      "bytes": 436,
+      "sha256": "6AC682F1FEC20991C0670EF8E4511132C1774CEB20EF4AA2F555B219B210C40B"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\86\\d21a53e9177c1f6d4d134d69730b89394b92f3",
+      "bytes": 159,
+      "sha256": "E41E09071C2BF03268C6BEE5EEF73D6AA17CAB19C6D3D488B55CF26B0C821C9B"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\8d\\f4d601a8f84955b3110559ba2f03427c6ef019",
+      "bytes": 495,
+      "sha256": "B7D906E8864F08797519DE2324728C7B9BC7A18B159A49EEBA02C6A99F776C19"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\93\\f81a4c82cdeab24dd50a0fe6effb3dd71879c2",
+      "bytes": 371,
+      "sha256": "CF7D7BAD7286A23D17D5D904B6DA23A7BA2F11030E9BD56A921E2DF80805786C"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\98\\2d585f1369610aec5f7e6c5284c1d87c48f8a3",
+      "bytes": 54,
+      "sha256": "194515F1E41F25CFDD91A21CC691AEFB920D6EB48DAF4567540F85C90BD6C38E"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\9b\\8bb429cf2d6a58392623456fe252257c3186bd",
+      "bytes": 547,
+      "sha256": "561518538192AFFA0618585949763BC9C2C65239A0873BC79DCA59778036BD03"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\9c\\9ce967270101a15f964bcbf4980c10396ab836",
+      "bytes": 531,
+      "sha256": "E4B1E9A2666D00B640BE57499AD75842A3BEC242087DC0D6AA5B9F4D332BFBE4"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\9d\\a8a9ee0a3a08c5809d00fdc2fa251b858cc41d",
+      "bytes": 397,
+      "sha256": "CE436855AE9F144E715568900AC0AFF23A657C4630D27D2A2968951D9772C857"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\a0\\5ea9b04819ec5403096a46d810aa5b084208cb",
+      "bytes": 202,
+      "sha256": "5CDA765E3392088CA34257E4E5FECAE72109FFD855FEB09EA9926AC3B6D86894"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\a2\\cceb2ec37f0ed92ae528c3670ef3025e6da49d",
+      "bytes": 2312,
+      "sha256": "57155972231112041E546BFFC2D2E6D27BB942CA8B8960B13A3030A2E280D4F3"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\a9\\d212cd4815d1e69f05acbb0b6f4c10b088c3f0",
+      "bytes": 469,
+      "sha256": "A4AB00E6FA5F42D988E6499B79755A3124C6645C06E737D035C069DBB87FD9B0"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\ab\\769cbd1cc3e70092196da3a0e3027bdb2cc8a7",
+      "bytes": 1995,
+      "sha256": "21D620B4E9847C5D2DC06FB99CA68D82ADC3CAB4D53F57D0786059CCF2C35EEA"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\ac\\48416a22c6eb5a3544bf2eadfa598db104514d",
+      "bytes": 819,
+      "sha256": "F8B0DCA3DC3CBF84188F4D2456FF4CBC38A9B29A7A2E8B49245448235AD3F8B9"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\ae\\a2ce114f1cb10c831f435e393124829451c8da",
+      "bytes": 59,
+      "sha256": "01D21B3E423F6AC7AD3FD19947D87EAB45DB1B043815DC353BA56F67A7A702A5"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\b5\\1595d8fdcbd0e8a685e5b724d9c9ab70283240",
+      "bytes": 373,
+      "sha256": "0D61C75461FCAF77A1FD07D1217434AEA02C0D06E2CFDB15E79814088B1600D4"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\b5\\59bfb6ac12bc14de3aec353b91a5e20ee1081c",
+      "bytes": 413,
+      "sha256": "BCC7A01C8E6472591FC5734733E8F9A272FB9FDCDDB5D2F8B98B9BEBC7E04A20"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\b8\\27f5b953993e74d5c6eba044b3ddc4be800185",
+      "bytes": 530,
+      "sha256": "776852C834833B7C82C573BB93C9420D6E31AC03572028E49BAF3EB63729E50D"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\bb\\b570d87bce56cc5daff335a270f1c833f1035f",
+      "bytes": 53,
+      "sha256": "A9A00F3E4CCCF597EF68B27AFE856E6AA8196C75482024AD09B032F623B87E0B"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\bf\\23a1d1d7148666ab57ba83d1d9b2e6dc6815b2",
+      "bytes": 415,
+      "sha256": "5F0EBF25B9BD3EB550BF3A7D59618640AB7AF770885E39C8F9719B4B00650580"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\c2\\eb135d492d6edb73cfec76d169346ad4e56223",
+      "bytes": 607,
+      "sha256": "6BC7CD91BA0AA78C4516FD1C35258A0D0EFB94AEF4511B2874393793FEE76885"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\c5\\4ed95d093514fb00994ba13eb1c14ed78b3ce7",
+      "bytes": 530,
+      "sha256": "C7A8FB8697F8A627312A0FC44DF7AE0F095C5680216A502A96D92F0894EB449A"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\c7\\a131d363b4cac3642df36a2dfda04c24002cd8",
+      "bytes": 1109,
+      "sha256": "B8CB423DE5823233F1002656EF13BE3BA01C3E14C03B46DCAB030028ED9544D6"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\c8\\734323c3774a307f434460f0bdf48413d335d2",
+      "bytes": 177,
+      "sha256": "27F7709F1E4F793730BE93BFEC47E4A05C1B3485C2C154523643647639DAB8A6"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\cb\\2df8c65e4a4328eab519ca8fa036a32d31e147",
+      "bytes": 804,
+      "sha256": "5B5F5E7EC02F9535D90B67F5002EB635DFA4F39EE401B7F2CBD91475C756A636"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\cd\\e20b5dd8de8e6d0f4c90b1eb4f4c10e37efd42",
+      "bytes": 525,
+      "sha256": "878C2E3A4B74BF87EDD2CABB0AD29220249CBBB6BC5A8A02539F381916EB96DC"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\d3\\0cbfb0697378c4e679ddaf80df3d983566a316",
+      "bytes": 323,
+      "sha256": "2C256B0D3D1204ECCF695335DD7B6A600738472FBFAC41477E2B660E6BB3E9C3"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\d5\\f7d376d69eba04eeb140053416863b120cf84a",
+      "bytes": 54,
+      "sha256": "765D451AA16348906481AAF32BB14681F39B58858838AD0C5E3B6A515E15685A"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\d8\\5fa3116cb9c064b99d9de86c264614dcd449c4",
+      "bytes": 278,
+      "sha256": "E193C94631AC8CE26DD0CE9E2FD6F219F0543D8386B77A595B14C9067128A22F"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\e0\\64960d4a348ceea43af254e06dbe2d263dcd8f",
+      "bytes": 65,
+      "sha256": "5DFB8972CF5C72E4CE56D58E17382B5B0301FC13D4E5852DB76FFD9160156F2E"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\e0\\cd6dfa96991f6d76cd97ee437be081382322a1",
+      "bytes": 640,
+      "sha256": "ACAC3808A13AD0CE07551DA39AC0CE87D5C083B42A732C14D2D1EFFD2364E866"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\e1\\53262ab6590b3525a15302004458e081be85aa",
+      "bytes": 125,
+      "sha256": "0451FE3A566ADC6C031A04F13B533757A264D667740391E79E7F9D7686869150"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\e2\\70641e869a2a8040580fb7abfe6ab69cfa3cb3",
+      "bytes": 539,
+      "sha256": "11BA76D8D496A2649865AED31875F6BCCBBDC6140F1D5FDB8B1C0E0DC6D4FBE1"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\e3\\4dd665e30b48c0f380546d7c17b3113b0bc973",
+      "bytes": 497,
+      "sha256": "2FD72F8C222CF0926F8561919C862EEEDA78AFD5C3ADF5EB7334F3DBF3D88F45"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\e6\\83cd9c96adb8eac9d40320b1e19586896e553c",
+      "bytes": 524,
+      "sha256": "28AA04583B442997479ED9AEE28B3A4DBB355DB0843B31BAC60DD952FF039C65"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\ea\\d193a51c85b0cb1fcaddddf7fb441ab2822d1f",
+      "bytes": 1339,
+      "sha256": "CC0E4D7886926A185E99B97B15304DAE02DBFC3D4BD4D8011E7642D752D841B5"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\ed\\707985122a646a863227f84d300d15581197e8",
+      "bytes": 512,
+      "sha256": "E93422CF98A3C021C4CDB6CF16E0FCEB846B2383368717EF8C923999B3FD171C"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\ed\\f31b8066698de66c9966c02526334651a10e8f",
+      "bytes": 404,
+      "sha256": "5425CC4A441AD5D118B825F7FF3C31A07041AFC5A3FD1557FDCCD80226DFFEC2"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\f1\\27130acd9cb774f8e610edbf03a642dd6a092a",
+      "bytes": 531,
+      "sha256": "2CCF135E79DAD82C54C2287891D8619D5F42D5DACED1E0C09F5EA02A5997FD2D"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\f3\\7a0211929ce542393c71c8a7ce5fcb19a2f01f",
+      "bytes": 531,
+      "sha256": "F5417EF406488A842F6D123044E2636A8257B356015BFF96E61B109EBCB38F1D"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\f6\\c6384d70c3c84a49d2760415ed22b39986077a",
+      "bytes": 188,
+      "sha256": "C08E66AA4D0F5B7EB0CBC269796AF8279BAA93998FCC3FC3484D8E08C88A3401"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\f9\\7df9a12dad8182c385cb8367b2ea84e8584eef",
+      "bytes": 723,
+      "sha256": "15EA52B2E571D73B5F6F4F369DB4144D48E981E21A8B70AEB954A75E235F2C71"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\f9\\f141fc13d4f9272b167658886794fc5cc42a46",
+      "bytes": 1421,
+      "sha256": "A83F4B3543305CA633172544DAAF6EB6E0A02B577E53CD84A3776677C291EAD0"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\fa\\de4743f380483cf871d8f48601ac895ce77e09",
+      "bytes": 524,
+      "sha256": "E70C5F86724ECF20B356BCE9E5F575D7EA7086393ECAA3FA481ACC43C224256A"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\objects\\fe\\9347cd52de45f86c546fd1545695951c69ab3e",
+      "bytes": 302,
+      "sha256": "A5A25B60209067D59D7A8C6BEAF3E249B7DB8A6967A3D0DA7E268B6CF8729592"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.git\\refs\\heads\\integration\\panoptic-master-20260818-000339",
+      "bytes": 41,
+      "sha256": "AF790D1731089B6AD0C654DF52977D08C0DB65CCDFE806FD17E557EEDDF16D09"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.gitignore",
+      "bytes": 158,
+      "sha256": "F1F051652A259A96E04B57907EEA6473F9EB60F62C4FE93F8F33E1F36D90383A"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\AGENTS.md",
+      "bytes": 4599,
+      "sha256": "D1A61941ABC3DE6AF9A3A21387AB39BFD12770B9BCE1BA4D3150663F388E693B"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\COMMERCIAL-SERVICE-BLUEPRINT.md",
+      "bytes": 1006,
+      "sha256": "540F01464AE36CE205D2292E6E4CBE4AE34831EBAE6B695083E456C4388235F8"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\COMPONENT_MAP.seed.json",
+      "bytes": 4740,
+      "sha256": "69D1B426D9897F93BBB8EC87B3602C71A17196B9CFEBCD146B5406C7AB7E8329"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\demos\\run-a4-demo.mjs",
+      "bytes": 785,
+      "sha256": "0485CEFDC01820E3504A303671A721774EC17D41CE18415783926F6694B12E46"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\demos\\run-commercial-demo.mjs",
+      "bytes": 225,
+      "sha256": "BCD0CF9C86920FB1ED854F39F8516FE3572301A0D2AFD3601C722D93BDE871F0"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\demos\\run-safe-demo.mjs",
+      "bytes": 682,
+      "sha256": "F3C6E24D144195A3A52B5E1DAC206B259F13D9F0A69099B1B7211F176D438B40"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\MASTER-OPERATOR-MANUAL.md",
+      "bytes": 1984,
+      "sha256": "60B2FE9AA1D260FAD772C52EE7254C4779248F7978D8FD69F8740F79E1E509FF"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\package.json",
+      "bytes": 389,
+      "sha256": "C321632B79387D75E132B29996B722C67F2F126E545523665CA6D2ABD2C55E0D"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\PANOPTIC_MASTER_CODEX_PROMPT.md",
+      "bytes": 15461,
+      "sha256": "0699B6B62D40C246D03B6931FBDE0CCE897EB404D3F5BB4580550D6190B628F0"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\reports\\A4-DEMO.json",
+      "bytes": 1436,
+      "sha256": "2E10486D521DB7F1732F9EB3AF62E823ECCF3DF9C3EBA08102BF91399B1C5C33"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\reports\\COMMERCIAL-DEMO.json",
+      "bytes": 444,
+      "sha256": "59E247E0998E27B64D57D1A486BF5A177EAC5C3C85DDACFBE923FE95FA6B261B"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\reports\\PANOPTIC-INTEGRATION-STATUS.md",
+      "bytes": 900,
+      "sha256": "5F3BAC002C15A4757A334081FD2A117A904E53219EA8A50946EE3BD047965472"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\reports\\SAFE-DEMO.json",
+      "bytes": 2830,
+      "sha256": "E139ADBBF0EDA67A028E83847A62B8E3A05CD9C75E47C124166693C9EBA3360D"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\scripts\\audit.mjs",
+      "bytes": 836,
+      "sha256": "366F541433021A6A3598C257EDE178B225C0040DF47FF231A6AE212AEF36B4B2"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\scripts\\Backup-PanopticDirect.ps1",
+      "bytes": 1551,
+      "sha256": "25CE2B9EAE49B9208C6C4FF65797950F976B4B536E5D67D73AB1AC852C7CE4C8"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\scripts\\Backup-PanopticIntegration.ps1",
+      "bytes": 1450,
+      "sha256": "6C0DF776C9EE8DF192C48D63ECEDB7C28EB0FD19BA7F6B937CC59696FCA81A6E"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\scripts\\Invoke-PanopticCodexMission.ps1",
+      "bytes": 248,
+      "sha256": "834581F950352450F9F51AF07664E832EB08B2E433FCE7643F6D14693323E788"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\scripts\\Restore-PanopticDirect.ps1",
+      "bytes": 894,
+      "sha256": "BB9B4069F29B054BC4A7E791434D5761C12802F6C8060C0BDE983EAF4609A5CC"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\scripts\\Start-PanopticCodex.ps1",
+      "bytes": 316,
+      "sha256": "6C5ACDCCAB217DE3789583E2D436519B6AA162593E59877FD5119F7E69A9A98C"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\scripts\\verify.mjs",
+      "bytes": 1115,
+      "sha256": "57A8A5ACF62E9D8B0186B32D75551C19E61A3F6913E86DFA9FB9474E441945A9"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\snapshots\\panoptic-direct-20260818-001639.zip",
+      "bytes": 48635,
+      "sha256": "BF82A3BDAD24C3BA4BC285A727719610E4ADDCD057814235DC5C6577571D6546"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\snapshots\\panoptic-direct-20260818-001639.zip.sha256.json",
+      "bytes": 246,
+      "sha256": "4D2BC9B13FCA24750CEE97B7661B0C6DA8A482E7A66FB00F9888B016C6C47630"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\snapshots\\panoptic-integration-20260818-000356.zip",
+      "bytes": 17364,
+      "sha256": "AB4BB4B42F18F9941B05C54825B2D976CD59D00852BF4E0250C018FC3F54117D"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\snapshots\\panoptic-integration-20260818-000356.zip.sha256.json",
+      "bytes": 222,
+      "sha256": "04F3339B9DA06D0644AD7D6427D992F39379638A988E8FF64DC824DE68DE5E0D"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\specs\\ADAPTER-CONTRACT.md",
+      "bytes": 726,
+      "sha256": "A6595F4F75A3472B363272D1C004E7B5A92A02DC0F76461FF1DC2CC9C055526E"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\specs\\evidence-envelope.schema.json",
+      "bytes": 1139,
+      "sha256": "32EF5A5A306F6D45A67D740564D1038ED463D7951DAECE8C324BC5C15EBCCBEA"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\specs\\mission-envelope.schema.json",
+      "bytes": 1712,
+      "sha256": "73A88D13C044B8D1E885403D70FCC4B4A256FA0016B9B29B8F900AD2AE31FEC0"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\specs\\PIPELINE-CONTRACT.md",
+      "bytes": 601,
+      "sha256": "29778FCB2D03BE21B008708C757AA699223766262BBBF4B3B595622D9AEDC2EC"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\src\\adapters\\base.mjs",
+      "bytes": 1815,
+      "sha256": "AF40241399284475775166BCE00D094D42E1B185384BBC2F71169473C897BBCB"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\src\\autonomy\\supervisor.mjs",
+      "bytes": 1685,
+      "sha256": "F2ABA99CD726529861FDC87BD119A1AFDC1DB022C313537C7585429566A56E08"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\src\\commercial\\provision.mjs",
+      "bytes": 618,
+      "sha256": "E6D1904BD915D2F8D1AE0937856FEED1B76CA68873A9E823791BB9F263E141E4"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\src\\contracts\\mission.mjs",
+      "bytes": 1707,
+      "sha256": "B000FFDE2EE31420BD9E8F646A965FADF762000F8DB3FFFA0041800DC9F4A967"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\src\\contracts\\reality.mjs",
+      "bytes": 1058,
+      "sha256": "F1681ABED4C37F9C18ECFB1ED151A3DD7F38D7B278140DD66C9AD7DB124B7043"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\src\\models\\router.mjs",
+      "bytes": 991,
+      "sha256": "9464A326DA3A6216B275B51AAAA636CD8DAF683E86BD18586D4F24420872BF96"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\src\\nodes\\enrollment.mjs",
+      "bytes": 681,
+      "sha256": "A2CCABF69C614E5436A3F66B826961BBF8422DD6756D70EE4C92FF28E15D3EA7"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\src\\pipeline\\engine.mjs",
+      "bytes": 2403,
+      "sha256": "ACD1C5DA0932381E6F6B341DFC15035FD397215BCAC0A418E4AF8D4C0C8678C2"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\src\\registry\\adapters.mjs",
+      "bytes": 876,
+      "sha256": "1AC80F01C27AF95D387206DBBA9199E0D2AA02947610A247501B32AB2B16CBF3"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\state\\adapter-registry.json",
+      "bytes": 9721,
+      "sha256": "B0699323E63183A9B5DA6483EDA9B4298D4E1A37A07A0A54558204912E950CE0"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\state\\capability-registry.json",
+      "bytes": 1497,
+      "sha256": "FC5CB584614ED09BD2C6188F2A654C4CD27A5F289655BFBA4EDBD24855A30356"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\state\\commercial-service-registry.json",
+      "bytes": 672,
+      "sha256": "21BB02701C03642B14B2D32ACE236924A395833704143E79DF243A1D9E1C42D8"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\state\\component-inventory.bootstrap.json",
+      "bytes": 12089,
+      "sha256": "6DC2551EA510A2B8E2340803D70EDCCD01A30A9DA3BD2DE414D4807E8A87D530"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\state\\component-inventory.json",
+      "bytes": 14213,
+      "sha256": "0108DC090C67F68F1D480D487B615C91C1CA0F50AE732B981BA157F1F1E76A8C"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\state\\evidence-gap-register.json",
+      "bytes": 1638,
+      "sha256": "FB88098A9B407EE6EBEFFF720EBAD9D2A3158C86844D9CB343E923273E37E59E"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\state\\panoptic-baseline.direct.json",
+      "bytes": 383,
+      "sha256": "F1D6FFFC300C107D17831A60D90C8B9DDF0AED1665715E016A75CEFF00D3E8DC"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\state\\panoptic-baseline.json",
+      "bytes": 267,
+      "sha256": "3F31A793FBDE46E41E9FFC00814F2E5A03D59A5A865947ABCA74FF7D6B3BCDEF"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\state\\pipeline-registry.json",
+      "bytes": 787,
+      "sha256": "813B8383E3F6A603E6248C015B471CC333D6D507D2846C3249E74C9C2748CA1E"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\test\\integration.test.mjs",
+      "bytes": 2949,
+      "sha256": "28A339EE2E7B70FFFA154E930ACE11E540F434E1A89C4F1AB22E59BBD4FED476"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\01-Panoptic-Geometry-and-Port-Zero.md",
+      "bytes": 931,
+      "sha256": "0D148EC2E318EB148BED75708687ADC10901644D41E742BA39F4B125506A4550"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\02-Authority-Founder-Approval-and-Identity.md",
+      "bytes": 941,
+      "sha256": "54DBD71A71DA6B24028898678A07F5144DBAC1673C3B60BB67D93E47AEC741E8"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\03-Start-Stop-Status-and-Test.md",
+      "bytes": 929,
+      "sha256": "DB8F103293F5A7A51B63D765D1ED8BB437A5DEC19479ADE42431F4063DFC94C9"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\04-Evidence-and-Reality-Classes.md",
+      "bytes": 928,
+      "sha256": "0A38D0F96127A3E33AF2FA2790924B8F95F5942609F8BCF0FC8575F7CCD311CD"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\05-Creating-a-K-Box-Volume.md",
+      "bytes": 923,
+      "sha256": "68F4FAEC65A4EEB70B22C6AC24B1233C34B66C616B3E26E2C83FC976688605ED"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\06-Building-an-Adapter.md",
+      "bytes": 919,
+      "sha256": "E6419BC28A2A0DEB4F3C91072154A3466C4F417EC84626F6CD035735C2DB2175"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\07-Creating-a-Pipeline.md",
+      "bytes": 919,
+      "sha256": "069E42E9EC6716642171D49E3F1B74533F9CCB18E78388152C7116FE08DED834"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\08-Running-Bounded-A4-Autonomy.md",
+      "bytes": 927,
+      "sha256": "268EDA49E296CDBE35C0113571B0636FFE6C783EC54CA91787D2BA0D1B3F4617"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\09-WATT-Energy-Demo.md",
+      "bytes": 916,
+      "sha256": "847B0158D9636845B6728AD7A415A1523FBB3DD99297522A013E942F433E2958"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\10-G3T-Communications-Demo.md",
+      "bytes": 923,
+      "sha256": "6502184C4C0039AA6A8FFDBD22B946AD661F6E3F9E7F77EB3A2A91BF1D309E11"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\11-RetroBank-Reconciliation-Demo.md",
+      "bytes": 929,
+      "sha256": "D1594E46E9E4635B7BDDC5D83B70736E3B78AEC77FD62BA2348C1E8E5863ED71"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\12-Model-Routing-Demo.md",
+      "bytes": 918,
+      "sha256": "6C2C76D1A59C5B15F6A60B2471A183FA7DC41AFDCD5A18F57CC78AF837ACF769"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\13-Incident-Rollback-and-Recovery.md",
+      "bytes": 932,
+      "sha256": "6EEFAC68847C8BCE4B7D4B73F7857F5ED17441675A052421429E3C9861E99CBF"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\14-Commercial-Service-Provisioning.md",
+      "bytes": 931,
+      "sha256": "840F3DBFEA75631F61A08C9AEC4D56259EB73A0D7D5BD561DE96169A29CEEDFA"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\15-Adding-a-Machine-or-Site.md",
+      "bytes": 924,
+      "sha256": "16E707101E7080BF1AC1BD977884AFEB97FFC7FF3C91704FCEA2A5642FA64E5D"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\16-Backup-Restore-and-Disaster-Recovery.md",
+      "bytes": 938,
+      "sha256": "F2566D30FFC0BDB69FC9D5DCBBDD155B4694A91248AF47B89C36A7489EBD8285"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\README.md",
+      "bytes": 632,
+      "sha256": "2F2D82C6209D339E92DD3DC4FF0417336C2B8A206B7C99AEE5799556F7E0467F"
+    },
+    {
+      "path": "mirror\\README.md",
+      "bytes": 645,
+      "sha256": "CFBB5B4081BC0392E483C7171F92CA5F5616D796CE543186A090709854C7A109"
+    }
+  ]
+}

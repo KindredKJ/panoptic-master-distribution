@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kindred Panoptic Master</title>
+<style>
+:root{color-scheme:dark;font-family:Inter,Segoe UI,Arial,sans-serif}
+body{margin:0;background:#090b10;color:#f4f7fb}
+header{padding:24px;border-bottom:1px solid #252b36;display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+input,button{background:#111722;color:#fff;border:1px solid #30394a;border-radius:8px;padding:10px 12px}
+button{cursor:pointer}
+main{padding:24px;display:grid;gap:18px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}
+.card{border:1px solid #252b36;border-radius:14px;padding:16px;background:#0f141d}
+.big{font-size:32px;font-weight:700}
+small{color:#98a4b7}
+pre{white-space:pre-wrap;word-break:break-word;max-height:480px;overflow:auto}
+.ok{color:#aaf0b4}.warn{color:#ffd280}
+</style>
+</head>
+<body>
+<header>
+  <div><strong>KINDRED PANOPTIC MASTER</strong><br><small>Port Zero · Meta-Cube · Geometry · Evidence · Value</small></div>
+  <input id="token" type="password" placeholder="Local founder bootstrap token" size="42">
+  <button id="load">Load Panoptic State</button>
+</header>
+<main>
+  <section class="grid">
+    <div class="card"><small>ORIGIN</small><div class="big">PORT ZERO</div><div>(0,0,0)</div></div>
+    <div class="card"><small>META-CUBE</small><div class="big">6 / 12 / 8</div><div>faces / edges / vertices</div></div>
+    <div class="card"><small>FOURTH DIMENSION</small><div class="big">τ</div><div>evidence · value · risk · cost · demand</div></div>
+  </section>
+  <section class="grid" id="summary"></section>
+  <section class="card"><h3>Master State</h3><pre id="out">Enter the local token from .env.local, then load.</pre></section>
+</main>
+<script>
+document.querySelector("#load").onclick=async()=>{
+ const token=document.querySelector("#token").value.trim();
+ const out=document.querySelector("#out");
+ try{
+  const r=await fetch("/v2/master",{headers:{Authorization:`Bearer ${token}`}});
+  const j=await r.json();
+  if(!r.ok) throw new Error(j.error||r.statusText);
+  out.textContent=JSON.stringify(j,null,2);
+  const summary=document.querySelector("#summary");
+  summary.innerHTML=[
+   ["Volumes",j.volumeCount],
+   ["Evidence",j.evidence.records],
+   ["Gaps",j.gaps.length],
+   ["Founder Key",j.founderKeyFingerprint.slice(0,16)+"…"]
+  ].map(([a,b])=>`<div class="card"><small>${a}</small><div class="big">${b}</div></div>`).join("");
+ }catch(e){out.textContent=String(e);}
+};
+</script>
+</body>
+</html>

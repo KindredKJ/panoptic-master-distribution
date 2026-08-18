@@ -1,0 +1,146 @@
+{
+  "version": "2.0",
+  "origin": {
+    "id": "PORT-ZERO",
+    "name": "StrataData Port Zero",
+    "coordinate": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "operationalFabric": {
+    "xCapability": [
+      "observe",
+      "measure",
+      "understand",
+      "forecast",
+      "optimize",
+      "decide",
+      "authorize",
+      "dispatch",
+      "execute",
+      "verify",
+      "reconcile",
+      "settle"
+    ],
+    "yStrata": [
+      {
+        "id": "fiscal",
+        "y": 1,
+        "name": "Fiscal"
+      },
+      {
+        "id": "energy",
+        "y": 2,
+        "name": "Energy"
+      },
+      {
+        "id": "communications",
+        "y": 3,
+        "name": "Communications"
+      },
+      {
+        "id": "infrastructure",
+        "y": 4,
+        "name": "Infrastructure"
+      },
+      {
+        "id": "intelligence",
+        "y": 5,
+        "name": "Intelligence"
+      },
+      {
+        "id": "spatial",
+        "y": 6,
+        "name": "Spatial / Digital Reality"
+      }
+    ],
+    "zScale": [
+      "device",
+      "person",
+      "home",
+      "site",
+      "campus",
+      "portfolio",
+      "organization",
+      "provider",
+      "network",
+      "market",
+      "ecosystem",
+      "meta-ecosystem"
+    ],
+    "zAliases": {
+      "building": "site",
+      "utility": "provider",
+      "carrier": "provider",
+      "grid": "network",
+      "cloud": "provider",
+      "enterprise": "organization"
+    },
+    "tauFields": [
+      "time",
+      "evidence",
+      "value",
+      "risk",
+      "cost",
+      "demand",
+      "confidence",
+      "operationalState"
+    ]
+  },
+  "metaCube": {
+    "faces": [
+      {
+        "id": "intelligence",
+        "axis": "thought-reality",
+        "sign": 1
+      },
+      {
+        "id": "infrastructure",
+        "axis": "thought-reality",
+        "sign": -1
+      },
+      {
+        "id": "integration",
+        "axis": "inside-outside",
+        "sign": 1
+      },
+      {
+        "id": "experience",
+        "axis": "inside-outside",
+        "sign": -1
+      },
+      {
+        "id": "economics",
+        "axis": "permission-value",
+        "sign": 1
+      },
+      {
+        "id": "authority",
+        "axis": "permission-value",
+        "sign": -1
+      }
+    ],
+    "oppositePairs": [
+      {
+        "axis": "thought-reality",
+        "a": "intelligence",
+        "b": "infrastructure",
+        "beam": "performance"
+      },
+      {
+        "axis": "inside-outside",
+        "a": "experience",
+        "b": "integration",
+        "beam": "composition"
+      },
+      {
+        "axis": "permission-value",
+        "a": "authority",
+        "b": "economics",
+        "beam": "accountable-value"
+      }
+    ]
+  }
+}
