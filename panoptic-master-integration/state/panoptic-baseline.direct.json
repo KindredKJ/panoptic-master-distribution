@@ -1,0 +1,14 @@
+{
+  "checkedAt": "2026-08-18T00:16:32.5468439-06:00",
+  "root": "C:\\KindredLabs\\kindred-panoptic-master",
+  "testScript": "C:\\KindredLabs\\kindred-panoptic-master\\Test-KindredPanopticMaster.ps1",
+  "testScriptPresent": true,
+  "passed": true,
+  "git": {
+    "branch": null,
+    "head": null,
+    "dirty": false,
+    "remote": null,
+    "headAvailable": false
+  }
+}

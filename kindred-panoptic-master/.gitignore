@@ -1,0 +1,7 @@
+.env.local
+.data/
+.bootstrap-backup/
+node_modules/
+*.log
+.DS_Store
+Thumbs.db

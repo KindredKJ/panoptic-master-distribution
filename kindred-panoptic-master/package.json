@@ -1,0 +1,18 @@
+{
+  "name": "@kindred/panoptic-master",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Kindred Panoptic Master geometry, meta-control, evidence, and recursive K-Box runtime",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node --env-file=.env.local src/api/server.mjs",
+    "dev": "node --watch --env-file=.env.local src/api/server.mjs",
+    "test": "node --test",
+    "check": "node --check src/api/server.mjs && node --test",
+    "demo": "node --env-file=.env.local scripts/demo.mjs",
+    "verify": "node --env-file=.env.local scripts/verify-master.mjs"
+  }
+}

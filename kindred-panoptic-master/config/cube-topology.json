@@ -1,0 +1,154 @@
+{
+  "edges": [
+    {
+      "faces": [
+        "intelligence",
+        "experience"
+      ],
+      "moat": "personalization"
+    },
+    {
+      "faces": [
+        "intelligence",
+        "integration"
+      ],
+      "moat": "orchestration"
+    },
+    {
+      "faces": [
+        "intelligence",
+        "authority"
+      ],
+      "moat": "governed-intelligence"
+    },
+    {
+      "faces": [
+        "intelligence",
+        "economics"
+      ],
+      "moat": "value-optimization"
+    },
+    {
+      "faces": [
+        "infrastructure",
+        "experience"
+      ],
+      "moat": "reliability"
+    },
+    {
+      "faces": [
+        "infrastructure",
+        "integration"
+      ],
+      "moat": "interoperability"
+    },
+    {
+      "faces": [
+        "infrastructure",
+        "authority"
+      ],
+      "moat": "security-resilience"
+    },
+    {
+      "faces": [
+        "infrastructure",
+        "economics"
+      ],
+      "moat": "unit-economics"
+    },
+    {
+      "faces": [
+        "experience",
+        "authority"
+      ],
+      "moat": "trust"
+    },
+    {
+      "faces": [
+        "experience",
+        "economics"
+      ],
+      "moat": "distribution-monetization"
+    },
+    {
+      "faces": [
+        "integration",
+        "authority"
+      ],
+      "moat": "governed-integration"
+    },
+    {
+      "faces": [
+        "integration",
+        "economics"
+      ],
+      "moat": "marketplace-network-effects"
+    }
+  ],
+  "vertices": [
+    {
+      "faces": [
+        "intelligence",
+        "experience",
+        "authority"
+      ],
+      "convergence": "trusted-personalized-intelligence"
+    },
+    {
+      "faces": [
+        "intelligence",
+        "experience",
+        "economics"
+      ],
+      "convergence": "companion-commerce"
+    },
+    {
+      "faces": [
+        "intelligence",
+        "integration",
+        "authority"
+      ],
+      "convergence": "governed-orchestration"
+    },
+    {
+      "faces": [
+        "intelligence",
+        "integration",
+        "economics"
+      ],
+      "convergence": "intelligent-marketplace"
+    },
+    {
+      "faces": [
+        "infrastructure",
+        "experience",
+        "authority"
+      ],
+      "convergence": "secure-operational-experience"
+    },
+    {
+      "faces": [
+        "infrastructure",
+        "experience",
+        "economics"
+      ],
+      "convergence": "delivered-service-economics"
+    },
+    {
+      "faces": [
+        "infrastructure",
+        "integration",
+        "authority"
+      ],
+      "convergence": "sovereign-enterprise-control-fabric"
+    },
+    {
+      "faces": [
+        "infrastructure",
+        "integration",
+        "economics"
+      ],
+      "convergence": "infrastructure-marketplace"
+    }
+  ]
+}

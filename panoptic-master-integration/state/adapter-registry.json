@@ -1,0 +1,334 @@
+[
+  {
+    "adapterId": "adapter::00DeskTop_Project",
+    "source": "00DeskTop_Project",
+    "domain": "experience",
+    "role": "desktop-perception",
+    "status": "NOT_FOUND_LOCAL",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": []
+  },
+  {
+    "adapterId": "adapter::Agent-00DT-Unified-Desktop-AI-agent",
+    "source": "Agent-00DT-Unified-Desktop-AI-agent",
+    "domain": "experience",
+    "role": "bounded-desktop-agent",
+    "status": "NOT_FOUND_LOCAL",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": []
+  },
+  {
+    "adapterId": "adapter::AI-Crawl",
+    "source": "AI-Crawl",
+    "domain": "spatial",
+    "role": "spatial-product",
+    "status": "DISCOVERED",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": [
+      "C:\\KindredLabs\\AI-Crawl",
+      "C:\\KindredLabs\\stratacast\\apps\\ai-crawl",
+      "D:\\KindredLabs\\kindred-labs-superstructure\\applications\\ai-crawl"
+    ]
+  },
+  {
+    "adapterId": "adapter::AI-Crawl-2026-07-29_01-28-53",
+    "source": "AI-Crawl-2026-07-29_01-28-53",
+    "domain": "unknown",
+    "role": "unclassified",
+    "status": "NOT_FOUND_LOCAL",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": []
+  },
+  {
+    "adapterId": "adapter::brainstem-in-touch",
+    "source": "brainstem-in-touch",
+    "domain": "communications",
+    "role": "org-comms-orchestration",
+    "status": "DISCOVERED",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": [
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\brainstem-in-touch"
+    ]
+  },
+  {
+    "adapterId": "adapter::FM2TW",
+    "source": "FM2TW",
+    "domain": "unknown",
+    "role": "unclassified",
+    "status": "NOT_FOUND_LOCAL",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": []
+  },
+  {
+    "adapterId": "adapter::IAMI",
+    "source": "IAMI",
+    "domain": "unknown",
+    "role": "unclassified",
+    "status": "NOT_FOUND_LOCAL",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": []
+  },
+  {
+    "adapterId": "adapter::IAMI-X",
+    "source": "IAMI-X",
+    "domain": "intelligence",
+    "role": "local-model-runtime",
+    "status": "DISCOVERED",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": [
+      "C:\\KindredLabs\\Ecosystem-Audit\\sandboxes\\IAMI-X"
+    ]
+  },
+  {
+    "adapterId": "adapter::K1",
+    "source": "K1",
+    "domain": "unknown",
+    "role": "unclassified",
+    "status": "DISCOVERED",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": [
+      "D:\\KindredLabs\\kindred-labs-superstructure\\verticals\\k1"
+    ]
+  },
+  {
+    "adapterId": "adapter::K1_Assistant",
+    "source": "K1_Assistant",
+    "domain": "product",
+    "role": "specialized-service-orchestrator",
+    "status": "NOT_FOUND_LOCAL",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": []
+  },
+  {
+    "adapterId": "adapter::KINDRED-AI-LAB--AI-Development-Environment-",
+    "source": "KINDRED-AI-LAB--AI-Development-Environment-",
+    "domain": "infrastructure",
+    "role": "ai-dev-environment",
+    "status": "NOT_FOUND_LOCAL",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": []
+  },
+  {
+    "adapterId": "adapter::kindred-brainstem",
+    "source": "kindred-brainstem",
+    "domain": "intelligence",
+    "role": "cognitive-field",
+    "status": "DISCOVERED",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": [
+      "C:\\KindredLabs\\kindred-brainstem",
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\kindred-brainstem"
+    ]
+  },
+  {
+    "adapterId": "adapter::kindred-cloud",
+    "source": "kindred-cloud",
+    "domain": "infrastructure",
+    "role": "infrastructure-provider-surface",
+    "status": "DISCOVERED",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": [
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\kindred-cloud"
+    ]
+  },
+  {
+    "adapterId": "adapter::Kindred-Cloud---KINNECT-K-A-S-",
+    "source": "Kindred-Cloud---KINNECT-K-A-S-",
+    "domain": "unknown",
+    "role": "unclassified",
+    "status": "NOT_FOUND_LOCAL",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": []
+  },
+  {
+    "adapterId": "adapter::kindred-h-caret",
+    "source": "kindred-h-caret",
+    "domain": "intelligence",
+    "role": "model-platform",
+    "status": "DISCOVERED",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": [
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\kindred-h-caret"
+    ]
+  },
+  {
+    "adapterId": "adapter::kindred-labs-genesis-v1",
+    "source": "kindred-labs-genesis-v1",
+    "domain": "control",
+    "role": "prime-org-state",
+    "status": "DISCOVERED",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": [
+      "C:\\KindredLabs\\kindred-labs-genesis-v1"
+    ]
+  },
+  {
+    "adapterId": "adapter::kindred-labs-superstructure",
+    "source": "kindred-labs-superstructure",
+    "domain": "authority",
+    "role": "governance",
+    "status": "DISCOVERED",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": [
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\repos\\kindred-labs-superstructure",
+      "D:\\KindredLabs\\kindred-labs-superstructure"
+    ]
+  },
+  {
+    "adapterId": "adapter::KINDRED-LLM",
+    "source": "KINDRED-LLM",
+    "domain": "unknown",
+    "role": "unclassified",
+    "status": "NOT_FOUND_LOCAL",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": []
+  },
+  {
+    "adapterId": "adapter::KINDRED-Optimization-Suite",
+    "source": "KINDRED-Optimization-Suite",
+    "domain": "intelligence",
+    "role": "optimization-tuning",
+    "status": "NOT_FOUND_LOCAL",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": []
+  },
+  {
+    "adapterId": "adapter::kindred-swarm-core",
+    "source": "kindred-swarm-core",
+    "domain": "intelligence",
+    "role": "optimization-service",
+    "status": "DISCOVERED",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": [
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\repos\\kindred-swarm-core"
+    ]
+  },
+  {
+    "adapterId": "adapter::KINDRED-WATT",
+    "source": "KINDRED-WATT",
+    "domain": "energy",
+    "role": "energy-volume",
+    "status": "NOT_FOUND_LOCAL",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": []
+  },
+  {
+    "adapterId": "adapter::KindredAINexus",
+    "source": "KindredAINexus",
+    "domain": "experience",
+    "role": "companion-lineage",
+    "status": "NOT_FOUND_LOCAL",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": []
+  },
+  {
+    "adapterId": "adapter::KINDRED_ASI_828",
+    "source": "KINDRED_ASI_828",
+    "domain": "control",
+    "role": "orchestration-lineage",
+    "status": "DISCOVERED",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": [
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\Kindred-Evolution-Authority\\KINDRED-WATT-83b30e0\\kindred_asi_828",
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\Kindred-Evolution-Authority\\KINDRED-WATT-Baseline-Validation\\kindred_asi_828",
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\Kindred-Evolution-Cells\\KINDRED-WATT.Promotion.477da3b\\kindred_asi_828",
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\_audit\\KINDRED-WATT-lineage\\kindred_asi_828"
+    ]
+  },
+  {
+    "adapterId": "adapter::KINDRED_EMIT_CORE",
+    "source": "KINDRED_EMIT_CORE",
+    "domain": "execution",
+    "role": "execution-spine",
+    "status": "NOT_FOUND_LOCAL",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": []
+  },
+  {
+    "adapterId": "adapter::StrataCast",
+    "source": "StrataCast",
+    "domain": "spatial",
+    "role": "spatial-engine",
+    "status": "DISCOVERED",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": [
+      "C:\\KindredLabs\\StrataCast",
+      "C:\\KindredLabs\\stratacast"
+    ]
+  },
+  {
+    "adapterId": "adapter::Successor",
+    "source": "Successor",
+    "domain": "unknown",
+    "role": "unclassified",
+    "status": "DISCOVERED",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": [
+      "C:\\KindredLabs\\Successor",
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\Successor"
+    ]
+  },
+  {
+    "adapterId": "adapter::vite-react",
+    "source": "vite-react",
+    "domain": "unknown",
+    "role": "unclassified",
+    "status": "NOT_FOUND_LOCAL",
+    "externalOperational": false,
+    "failClosed": true,
+    "credentialsRequired": [],
+    "localPaths": []
+  }
+]

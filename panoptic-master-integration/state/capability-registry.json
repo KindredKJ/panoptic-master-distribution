@@ -1,0 +1,71 @@
+[
+  {
+    "reality": "DISCOVERED",
+    "authoritativeOwner": "kindred-labs-superstructure",
+    "consumers": [
+      "Panoptic Master"
+    ],
+    "capability": "governance"
+  },
+  {
+    "reality": "DISCOVERED",
+    "authoritativeOwner": "kindred-labs-genesis-v1",
+    "consumers": [
+      "Panoptic Master",
+      "Brainstem"
+    ],
+    "capability": "organization-state"
+  },
+  {
+    "reality": "DISCOVERED",
+    "authoritativeOwner": "kindred-brainstem",
+    "consumers": [
+      "Panoptic Master",
+      "Emit"
+    ],
+    "capability": "plan"
+  },
+  {
+    "reality": "DISCOVERED",
+    "authoritativeOwner": "KINDRED_EMIT_CORE",
+    "consumers": [
+      "Panoptic Master"
+    ],
+    "capability": "execute"
+  },
+  {
+    "reality": "DISCOVERED",
+    "authoritativeOwner": "KINDRED-WATT",
+    "consumers": [
+      "Panoptic Master"
+    ],
+    "capability": "energy-optimize"
+  },
+  {
+    "reality": "DISCOVERED",
+    "authoritativeOwner": "StrataCast",
+    "consumers": [
+      "AI-Crawl",
+      "Panoptic Master"
+    ],
+    "capability": "spatial-runtime"
+  },
+  {
+    "reality": "DISCOVERED",
+    "authoritativeOwner": "IAMI-X",
+    "consumers": [
+      "Brainstem",
+      "Panoptic Master"
+    ],
+    "capability": "model-local"
+  },
+  {
+    "reality": "DISCOVERED",
+    "authoritativeOwner": "kindred-swarm-core",
+    "consumers": [
+      "Brainstem",
+      "Panoptic Master"
+    ],
+    "capability": "optimization"
+  }
+]

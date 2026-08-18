@@ -1,0 +1,21 @@
+{
+  "highImpactCapabilities": [
+    "authorize",
+    "dispatch",
+    "execute",
+    "settle"
+  ],
+  "founderApprovalRequired": true,
+  "externalExecutionDefault": false,
+  "evidenceRequiredForValueRecognition": true,
+  "rules": [
+    "Port Zero remains the geometric, authority, routing, and evidence origin.",
+    "Every target must be authorized by a registered geometric volume.",
+    "No child volume may exceed the bounds of its parent volume.",
+    "High-impact actions require a cryptographically signed founder approval.",
+    "Every execution attempt produces evidence.",
+    "Unverified external adapters remain fail-closed.",
+    "Internal value evidence is not bank settlement.",
+    "No capability may be represented as externally operational without evidence."
+  ]
+}

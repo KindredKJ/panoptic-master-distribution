@@ -1,0 +1,13 @@
+node_modules/
+snapshots/
+.direct-integrator-backup/
+.bootstrap-backup/
+.env
+.env.*
+!.env.example
+**/.data/
+**/secrets/
+**/*secret*
+**/*credential*
+*.zip
+*.log

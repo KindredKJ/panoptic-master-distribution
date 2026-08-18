@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "kindred://panoptic/evidence-envelope/v1",
+  "title": "Panoptic Evidence Envelope",
+  "type": "object",
+  "required": [
+    "schemaVersion","evidenceId","missionId","actor","intent","authority",
+    "execution","observation","verification","hash","realityClass","createdAt"
+  ],
+  "properties": {
+    "schemaVersion": { "const": "1.0" },
+    "evidenceId": { "type": "string" },
+    "missionId": { "type": "string" },
+    "actor": { "type": "object" },
+    "intent": { "type": "object" },
+    "authority": { "type": "object" },
+    "execution": { "type": "object" },
+    "observation": { "type": "object" },
+    "verification": { "type": "object" },
+    "hash": { "type": "string" },
+    "parentEvidenceId": { "type": ["string","null"] },
+    "selectiveDisclosure": { "type": "object" },
+    "externalConfirmation": { "type": ["object","null"] },
+    "realityClass": {
+      "enum": [
+        "PROPOSED","SIMULATED","LOCAL_VERIFIED","INTEGRATION_VERIFIED",
+        "EXTERNAL_VERIFIED","PRODUCTION_OPERATIONAL"
+      ]
+    },
+    "createdAt": { "type": "string" }
+  }
+}

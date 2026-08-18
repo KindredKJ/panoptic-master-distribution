@@ -1,0 +1,14 @@
+{
+  "name": "@kindred/panoptic-direct-integration",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "verify": "node scripts/verify.mjs",
+    "audit": "node scripts/audit.mjs",
+    "demo": "node demos/run-safe-demo.mjs",
+    "a4:demo": "node demos/run-a4-demo.mjs",
+    "commercial:demo": "node demos/run-commercial-demo.mjs"
+  }
+}

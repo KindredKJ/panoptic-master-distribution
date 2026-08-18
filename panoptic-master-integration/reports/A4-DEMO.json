@@ -1,0 +1,55 @@
+{
+  "simulation": true,
+  "missionId": "bb0df543-3774-4d64-ab82-033557bf9fbb",
+  "autonomy": "A4",
+  "plan": [
+    {
+      "step": 1,
+      "missionId": "bb0df543-3774-4d64-ab82-033557bf9fbb",
+      "action": {
+        "name": "read local state",
+        "preAuthorized": true,
+        "reversible": true,
+        "impactClass": "reversible-local"
+      },
+      "decision": {
+        "level": "A4",
+        "impact": "reversible-local",
+        "mustEscalate": false,
+        "permittedAutomatically": true
+      }
+    },
+    {
+      "step": 2,
+      "missionId": "bb0df543-3774-4d64-ab82-033557bf9fbb",
+      "action": {
+        "name": "generate local report",
+        "preAuthorized": true,
+        "reversible": true,
+        "impactClass": "reversible-local"
+      },
+      "decision": {
+        "level": "A4",
+        "impact": "reversible-local",
+        "mustEscalate": false,
+        "permittedAutomatically": true
+      }
+    },
+    {
+      "step": 3,
+      "missionId": "bb0df543-3774-4d64-ab82-033557bf9fbb",
+      "action": {
+        "name": "external payment",
+        "preAuthorized": false,
+        "reversible": false,
+        "impactClass": "external-financial-transfer"
+      },
+      "decision": {
+        "level": "A4",
+        "impact": "external-financial-transfer",
+        "mustEscalate": true,
+        "permittedAutomatically": false
+      }
+    }
+  ]
+}

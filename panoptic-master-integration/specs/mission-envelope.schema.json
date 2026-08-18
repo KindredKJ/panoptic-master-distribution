@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "kindred://panoptic/mission-envelope/v1",
+  "title": "Panoptic Universal Mission Envelope",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion","missionId","correlationId","lineageId","actor",
+    "tenant","sourceVolume","destinationVolume","coordinate","capability",
+    "objective","authority","policy","budget","idempotencyKey",
+    "deadline","retry","evidenceRequirements","economicAttribution",
+    "createdAt","proof"
+  ],
+  "properties": {
+    "schemaVersion": { "const": "1.0" },
+    "missionId": { "type": "string", "minLength": 1 },
+    "parentMissionId": { "type": ["string","null"] },
+    "correlationId": { "type": "string", "minLength": 1 },
+    "lineageId": { "type": "string", "minLength": 1 },
+    "actor": { "type": "object" },
+    "tenant": { "type": "object" },
+    "founderGate": { "type": "object" },
+    "sourceVolume": { "type": "string" },
+    "destinationVolume": { "type": "string" },
+    "coordinate": {
+      "type": "object",
+      "required": ["x","y","z","tau"],
+      "properties": {
+        "x": {},
+        "y": {},
+        "z": {},
+        "tau": { "type": "object" }
+      }
+    },
+    "capability": { "type": "string" },
+    "objective": { "type": "string" },
+    "authority": { "type": "object" },
+    "policy": { "type": "object" },
+    "budget": { "type": "object" },
+    "idempotencyKey": { "type": "string" },
+    "deadline": { "type": "string" },
+    "retry": { "type": "object" },
+    "evidenceRequirements": { "type": "array" },
+    "economicAttribution": { "type": "object" },
+    "createdAt": { "type": "string" },
+    "proof": { "type": "object" }
+  }
+}

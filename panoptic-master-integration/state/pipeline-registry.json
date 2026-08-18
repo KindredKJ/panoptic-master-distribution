@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "1.0",
+  "stages": [
+    "DISCOVER",
+    "IDENTIFY",
+    "NORMALIZE",
+    "CLASSIFY",
+    "AUTHORIZE",
+    "PLAN",
+    "ROUTE",
+    "PREFLIGHT",
+    "EXECUTE",
+    "OBSERVE",
+    "VERIFY",
+    "EVIDENCE",
+    "RECONCILE",
+    "ATTRIBUTE_VALUE",
+    "SETTLE",
+    "LEARN",
+    "UPDATE_READ_MODEL"
+  ],
+  "controls": [
+    "correlation-id",
+    "schema-validation",
+    "bounded-concurrency",
+    "timeouts",
+    "retry-budget",
+    "circuit-breaker",
+    "dead-letter",
+    "idempotency",
+    "backpressure",
+    "offline-queue",
+    "replay-protection",
+    "recovery",
+    "audit",
+    "metrics",
+    "reality-class"
+  ],
+  "settlementRule": "SETTLE is blocked unless a real externally verified settlement adapter exists."
+}

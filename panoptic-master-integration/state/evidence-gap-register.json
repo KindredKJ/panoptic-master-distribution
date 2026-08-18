@@ -1,0 +1,72 @@
+[
+  {
+    "component": "00DeskTop_Project",
+    "gap": "LOCAL_SOURCE_NOT_DISCOVERED",
+    "reality": "PROPOSED"
+  },
+  {
+    "component": "Agent-00DT-Unified-Desktop-AI-agent",
+    "gap": "LOCAL_SOURCE_NOT_DISCOVERED",
+    "reality": "PROPOSED"
+  },
+  {
+    "component": "AI-Crawl-2026-07-29_01-28-53",
+    "gap": "LOCAL_SOURCE_NOT_DISCOVERED",
+    "reality": "PROPOSED"
+  },
+  {
+    "component": "FM2TW",
+    "gap": "LOCAL_SOURCE_NOT_DISCOVERED",
+    "reality": "PROPOSED"
+  },
+  {
+    "component": "IAMI",
+    "gap": "LOCAL_SOURCE_NOT_DISCOVERED",
+    "reality": "PROPOSED"
+  },
+  {
+    "component": "K1_Assistant",
+    "gap": "LOCAL_SOURCE_NOT_DISCOVERED",
+    "reality": "PROPOSED"
+  },
+  {
+    "component": "KINDRED-AI-LAB--AI-Development-Environment-",
+    "gap": "LOCAL_SOURCE_NOT_DISCOVERED",
+    "reality": "PROPOSED"
+  },
+  {
+    "component": "Kindred-Cloud---KINNECT-K-A-S-",
+    "gap": "LOCAL_SOURCE_NOT_DISCOVERED",
+    "reality": "PROPOSED"
+  },
+  {
+    "component": "KINDRED-LLM",
+    "gap": "LOCAL_SOURCE_NOT_DISCOVERED",
+    "reality": "PROPOSED"
+  },
+  {
+    "component": "KINDRED-Optimization-Suite",
+    "gap": "LOCAL_SOURCE_NOT_DISCOVERED",
+    "reality": "PROPOSED"
+  },
+  {
+    "component": "KINDRED-WATT",
+    "gap": "LOCAL_SOURCE_NOT_DISCOVERED",
+    "reality": "PROPOSED"
+  },
+  {
+    "component": "KindredAINexus",
+    "gap": "LOCAL_SOURCE_NOT_DISCOVERED",
+    "reality": "PROPOSED"
+  },
+  {
+    "component": "KINDRED_EMIT_CORE",
+    "gap": "LOCAL_SOURCE_NOT_DISCOVERED",
+    "reality": "PROPOSED"
+  },
+  {
+    "component": "vite-react",
+    "gap": "LOCAL_SOURCE_NOT_DISCOVERED",
+    "reality": "PROPOSED"
+  }
+]

@@ -1,0 +1,523 @@
+[
+  {
+    "name": "00DeskTop_Project",
+    "github": "KindredKJ/00DeskTop_Project",
+    "discovered": false,
+    "localPaths": [],
+    "provisionalRole": "desktop-perception",
+    "domain": "experience",
+    "priority": "P2",
+    "status": "NOT_FOUND_LOCAL",
+    "gitStates": []
+  },
+  {
+    "name": "Agent-00DT-Unified-Desktop-AI-agent",
+    "github": "KindredKJ/Agent-00DT-Unified-Desktop-AI-agent",
+    "discovered": false,
+    "localPaths": [],
+    "provisionalRole": "bounded-desktop-agent",
+    "domain": "experience",
+    "priority": "P2",
+    "status": "NOT_FOUND_LOCAL",
+    "gitStates": []
+  },
+  {
+    "name": "AI-Crawl",
+    "github": "KindredKJ/AI-Crawl",
+    "discovered": true,
+    "localPaths": [
+      "C:\\KindredLabs\\AI-Crawl",
+      "C:\\KindredLabs\\stratacast\\apps\\ai-crawl",
+      "D:\\KindredLabs\\kindred-labs-superstructure\\applications\\ai-crawl"
+    ],
+    "provisionalRole": "spatial-product",
+    "domain": "spatial",
+    "priority": "P1",
+    "status": "DISCOVERED",
+    "gitStates": [
+      {
+        "path": "C:\\KindredLabs\\AI-Crawl",
+        "isGit": true,
+        "branch": null,
+        "head": null,
+        "remote": null,
+        "dirty": false
+      },
+      {
+        "path": "C:\\KindredLabs\\stratacast\\apps\\ai-crawl",
+        "isGit": false,
+        "branch": null,
+        "head": null,
+        "remote": null,
+        "dirty": null
+      },
+      {
+        "path": "D:\\KindredLabs\\kindred-labs-superstructure\\applications\\ai-crawl",
+        "isGit": false,
+        "branch": null,
+        "head": null,
+        "remote": null,
+        "dirty": null
+      }
+    ]
+  },
+  {
+    "name": "AI-Crawl-2026-07-29_01-28-53",
+    "github": "KindredKJ/AI-Crawl-2026-07-29_01-28-53",
+    "discovered": false,
+    "localPaths": [],
+    "provisionalRole": "unclassified",
+    "domain": "unknown",
+    "priority": "P3",
+    "status": "NOT_FOUND_LOCAL",
+    "gitStates": []
+  },
+  {
+    "name": "brainstem-in-touch",
+    "github": "KindredKJ/brainstem-in-touch",
+    "discovered": true,
+    "localPaths": [
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\brainstem-in-touch"
+    ],
+    "provisionalRole": "org-comms-orchestration",
+    "domain": "communications",
+    "priority": "P1",
+    "status": "DISCOVERED",
+    "gitStates": [
+      {
+        "path": "C:\\Users\\Kindred KJ Cox\\KindredLabs\\brainstem-in-touch",
+        "isGit": true,
+        "branch": null,
+        "head": null,
+        "remote": null,
+        "dirty": false
+      }
+    ]
+  },
+  {
+    "name": "FM2TW",
+    "github": "KindredKJ/FM2TW",
+    "discovered": false,
+    "localPaths": [],
+    "provisionalRole": "unclassified",
+    "domain": "unknown",
+    "priority": "P3",
+    "status": "NOT_FOUND_LOCAL",
+    "gitStates": []
+  },
+  {
+    "name": "IAMI",
+    "github": "KindredKJ/IAMI",
+    "discovered": false,
+    "localPaths": [],
+    "provisionalRole": "unclassified",
+    "domain": "unknown",
+    "priority": "P3",
+    "status": "NOT_FOUND_LOCAL",
+    "gitStates": []
+  },
+  {
+    "name": "IAMI-X",
+    "github": "KindredKJ/IAMI-X",
+    "discovered": true,
+    "localPaths": [
+      "C:\\KindredLabs\\Ecosystem-Audit\\sandboxes\\IAMI-X"
+    ],
+    "provisionalRole": "local-model-runtime",
+    "domain": "intelligence",
+    "priority": "P1",
+    "status": "DISCOVERED",
+    "gitStates": [
+      {
+        "path": "C:\\KindredLabs\\Ecosystem-Audit\\sandboxes\\IAMI-X",
+        "isGit": false,
+        "branch": null,
+        "head": null,
+        "remote": null,
+        "dirty": null
+      }
+    ]
+  },
+  {
+    "name": "K1",
+    "github": "KindredKJ/K1",
+    "discovered": true,
+    "localPaths": [
+      "D:\\KindredLabs\\kindred-labs-superstructure\\verticals\\k1"
+    ],
+    "provisionalRole": "unclassified",
+    "domain": "unknown",
+    "priority": "P3",
+    "status": "DISCOVERED",
+    "gitStates": [
+      {
+        "path": "D:\\KindredLabs\\kindred-labs-superstructure\\verticals\\k1",
+        "isGit": false,
+        "branch": null,
+        "head": null,
+        "remote": null,
+        "dirty": null
+      }
+    ]
+  },
+  {
+    "name": "K1_Assistant",
+    "github": "KindredKJ/K1_Assistant",
+    "discovered": false,
+    "localPaths": [],
+    "provisionalRole": "specialized-service-orchestrator",
+    "domain": "product",
+    "priority": "P2",
+    "status": "NOT_FOUND_LOCAL",
+    "gitStates": []
+  },
+  {
+    "name": "KINDRED-AI-LAB--AI-Development-Environment-",
+    "github": "KindredKJ/KINDRED-AI-LAB--AI-Development-Environment-",
+    "discovered": false,
+    "localPaths": [],
+    "provisionalRole": "ai-dev-environment",
+    "domain": "infrastructure",
+    "priority": "P1",
+    "status": "NOT_FOUND_LOCAL",
+    "gitStates": []
+  },
+  {
+    "name": "kindred-brainstem",
+    "github": "KindredKJ/kindred-brainstem",
+    "discovered": true,
+    "localPaths": [
+      "C:\\KindredLabs\\kindred-brainstem",
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\kindred-brainstem"
+    ],
+    "provisionalRole": "cognitive-field",
+    "domain": "intelligence",
+    "priority": "P0",
+    "status": "DISCOVERED",
+    "gitStates": [
+      {
+        "path": "C:\\KindredLabs\\kindred-brainstem",
+        "isGit": true,
+        "branch": null,
+        "head": null,
+        "remote": null,
+        "dirty": false
+      },
+      {
+        "path": "C:\\Users\\Kindred KJ Cox\\KindredLabs\\kindred-brainstem",
+        "isGit": true,
+        "branch": null,
+        "head": null,
+        "remote": null,
+        "dirty": false
+      }
+    ]
+  },
+  {
+    "name": "kindred-cloud",
+    "github": "KindredKJ/kindred-cloud",
+    "discovered": true,
+    "localPaths": [
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\kindred-cloud"
+    ],
+    "provisionalRole": "infrastructure-provider-surface",
+    "domain": "infrastructure",
+    "priority": "P1",
+    "status": "DISCOVERED",
+    "gitStates": [
+      {
+        "path": "C:\\Users\\Kindred KJ Cox\\KindredLabs\\kindred-cloud",
+        "isGit": true,
+        "branch": null,
+        "head": null,
+        "remote": null,
+        "dirty": false
+      }
+    ]
+  },
+  {
+    "name": "Kindred-Cloud---KINNECT-K-A-S-",
+    "github": "KindredKJ/Kindred-Cloud---KINNECT-K-A-S-",
+    "discovered": false,
+    "localPaths": [],
+    "provisionalRole": "unclassified",
+    "domain": "unknown",
+    "priority": "P3",
+    "status": "NOT_FOUND_LOCAL",
+    "gitStates": []
+  },
+  {
+    "name": "kindred-h-caret",
+    "github": "KindredKJ/kindred-h-caret",
+    "discovered": true,
+    "localPaths": [
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\kindred-h-caret"
+    ],
+    "provisionalRole": "model-platform",
+    "domain": "intelligence",
+    "priority": "P1",
+    "status": "DISCOVERED",
+    "gitStates": [
+      {
+        "path": "C:\\Users\\Kindred KJ Cox\\KindredLabs\\kindred-h-caret",
+        "isGit": true,
+        "branch": null,
+        "head": null,
+        "remote": null,
+        "dirty": false
+      }
+    ]
+  },
+  {
+    "name": "kindred-labs-genesis-v1",
+    "github": "KindredKJ/kindred-labs-genesis-v1",
+    "discovered": true,
+    "localPaths": [
+      "C:\\KindredLabs\\kindred-labs-genesis-v1"
+    ],
+    "provisionalRole": "prime-org-state",
+    "domain": "control",
+    "priority": "P0",
+    "status": "DISCOVERED",
+    "gitStates": [
+      {
+        "path": "C:\\KindredLabs\\kindred-labs-genesis-v1",
+        "isGit": true,
+        "branch": null,
+        "head": null,
+        "remote": null,
+        "dirty": false
+      }
+    ]
+  },
+  {
+    "name": "kindred-labs-superstructure",
+    "github": "KindredKJ/kindred-labs-superstructure",
+    "discovered": true,
+    "localPaths": [
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\repos\\kindred-labs-superstructure",
+      "D:\\KindredLabs\\kindred-labs-superstructure"
+    ],
+    "provisionalRole": "governance",
+    "domain": "authority",
+    "priority": "P0",
+    "status": "DISCOVERED",
+    "gitStates": [
+      {
+        "path": "C:\\Users\\Kindred KJ Cox\\KindredLabs\\repos\\kindred-labs-superstructure",
+        "isGit": true,
+        "branch": null,
+        "head": null,
+        "remote": null,
+        "dirty": false
+      },
+      {
+        "path": "D:\\KindredLabs\\kindred-labs-superstructure",
+        "isGit": true,
+        "branch": null,
+        "head": null,
+        "remote": null,
+        "dirty": false
+      }
+    ]
+  },
+  {
+    "name": "KINDRED-LLM",
+    "github": "KindredKJ/KINDRED-LLM",
+    "discovered": false,
+    "localPaths": [],
+    "provisionalRole": "unclassified",
+    "domain": "unknown",
+    "priority": "P3",
+    "status": "NOT_FOUND_LOCAL",
+    "gitStates": []
+  },
+  {
+    "name": "KINDRED-Optimization-Suite",
+    "github": "KindredKJ/KINDRED-Optimization-Suite",
+    "discovered": false,
+    "localPaths": [],
+    "provisionalRole": "optimization-tuning",
+    "domain": "intelligence",
+    "priority": "P1",
+    "status": "NOT_FOUND_LOCAL",
+    "gitStates": []
+  },
+  {
+    "name": "kindred-swarm-core",
+    "github": "KindredKJ/kindred-swarm-core",
+    "discovered": true,
+    "localPaths": [
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\repos\\kindred-swarm-core"
+    ],
+    "provisionalRole": "optimization-service",
+    "domain": "intelligence",
+    "priority": "P1",
+    "status": "DISCOVERED",
+    "gitStates": [
+      {
+        "path": "C:\\Users\\Kindred KJ Cox\\KindredLabs\\repos\\kindred-swarm-core",
+        "isGit": true,
+        "branch": null,
+        "head": null,
+        "remote": null,
+        "dirty": false
+      }
+    ]
+  },
+  {
+    "name": "KINDRED-WATT",
+    "github": "KindredKJ/KINDRED-WATT",
+    "discovered": false,
+    "localPaths": [],
+    "provisionalRole": "energy-volume",
+    "domain": "energy",
+    "priority": "P1",
+    "status": "NOT_FOUND_LOCAL",
+    "gitStates": []
+  },
+  {
+    "name": "KindredAINexus",
+    "github": "KindredKJ/KindredAINexus",
+    "discovered": false,
+    "localPaths": [],
+    "provisionalRole": "companion-lineage",
+    "domain": "experience",
+    "priority": "P2",
+    "status": "NOT_FOUND_LOCAL",
+    "gitStates": []
+  },
+  {
+    "name": "KINDRED_ASI_828",
+    "github": "KindredKJ/KINDRED_ASI_828",
+    "discovered": true,
+    "localPaths": [
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\Kindred-Evolution-Authority\\KINDRED-WATT-83b30e0\\kindred_asi_828",
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\Kindred-Evolution-Authority\\KINDRED-WATT-Baseline-Validation\\kindred_asi_828",
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\Kindred-Evolution-Cells\\KINDRED-WATT.Promotion.477da3b\\kindred_asi_828",
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\_audit\\KINDRED-WATT-lineage\\kindred_asi_828"
+    ],
+    "provisionalRole": "orchestration-lineage",
+    "domain": "control",
+    "priority": "P2",
+    "status": "DISCOVERED",
+    "gitStates": [
+      {
+        "path": "C:\\Users\\Kindred KJ Cox\\KindredLabs\\Kindred-Evolution-Authority\\KINDRED-WATT-83b30e0\\kindred_asi_828",
+        "isGit": false,
+        "branch": null,
+        "head": null,
+        "remote": null,
+        "dirty": null
+      },
+      {
+        "path": "C:\\Users\\Kindred KJ Cox\\KindredLabs\\Kindred-Evolution-Authority\\KINDRED-WATT-Baseline-Validation\\kindred_asi_828",
+        "isGit": false,
+        "branch": null,
+        "head": null,
+        "remote": null,
+        "dirty": null
+      },
+      {
+        "path": "C:\\Users\\Kindred KJ Cox\\KindredLabs\\Kindred-Evolution-Cells\\KINDRED-WATT.Promotion.477da3b\\kindred_asi_828",
+        "isGit": false,
+        "branch": null,
+        "head": null,
+        "remote": null,
+        "dirty": null
+      },
+      {
+        "path": "C:\\Users\\Kindred KJ Cox\\KindredLabs\\_audit\\KINDRED-WATT-lineage\\kindred_asi_828",
+        "isGit": false,
+        "branch": null,
+        "head": null,
+        "remote": null,
+        "dirty": null
+      }
+    ]
+  },
+  {
+    "name": "KINDRED_EMIT_CORE",
+    "github": "KindredKJ/KINDRED_EMIT_CORE",
+    "discovered": false,
+    "localPaths": [],
+    "provisionalRole": "execution-spine",
+    "domain": "execution",
+    "priority": "P0",
+    "status": "NOT_FOUND_LOCAL",
+    "gitStates": []
+  },
+  {
+    "name": "StrataCast",
+    "github": "KindredKJ/StrataCast",
+    "discovered": true,
+    "localPaths": [
+      "C:\\KindredLabs\\StrataCast",
+      "C:\\KindredLabs\\stratacast"
+    ],
+    "provisionalRole": "spatial-engine",
+    "domain": "spatial",
+    "priority": "P1",
+    "status": "DISCOVERED",
+    "gitStates": [
+      {
+        "path": "C:\\KindredLabs\\StrataCast",
+        "isGit": true,
+        "branch": null,
+        "head": null,
+        "remote": null,
+        "dirty": false
+      },
+      {
+        "path": "C:\\KindredLabs\\stratacast",
+        "isGit": true,
+        "branch": null,
+        "head": null,
+        "remote": null,
+        "dirty": false
+      }
+    ]
+  },
+  {
+    "name": "Successor",
+    "github": "KindredKJ/Successor",
+    "discovered": true,
+    "localPaths": [
+      "C:\\KindredLabs\\Successor",
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\Successor"
+    ],
+    "provisionalRole": "unclassified",
+    "domain": "unknown",
+    "priority": "P3",
+    "status": "DISCOVERED",
+    "gitStates": [
+      {
+        "path": "C:\\KindredLabs\\Successor",
+        "isGit": true,
+        "branch": null,
+        "head": null,
+        "remote": null,
+        "dirty": false
+      },
+      {
+        "path": "C:\\Users\\Kindred KJ Cox\\KindredLabs\\Successor",
+        "isGit": false,
+        "branch": null,
+        "head": null,
+        "remote": null,
+        "dirty": null
+      }
+    ]
+  },
+  {
+    "name": "vite-react",
+    "github": "KindredKJ/vite-react",
+    "discovered": false,
+    "localPaths": [],
+    "provisionalRole": "unclassified",
+    "domain": "unknown",
+    "priority": "P3",
+    "status": "NOT_FOUND_LOCAL",
+    "gitStates": []
+  }
+]

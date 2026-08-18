@@ -1,0 +1,386 @@
+[
+  {
+    "id": "PORT-ZERO",
+    "name": "Port Zero",
+    "type": "point",
+    "parentId": null,
+    "bounds": {
+      "x": [
+        "observe",
+        "observe"
+      ],
+      "y": [
+        "fiscal",
+        "fiscal"
+      ],
+      "z": [
+        "device",
+        "device"
+      ]
+    },
+    "origin": true
+  },
+  {
+    "id": "K-META",
+    "name": "Panoptic Meta-Box",
+    "type": "box",
+    "parentId": null,
+    "bounds": {
+      "x": [
+        "observe",
+        "settle"
+      ],
+      "y": [
+        "fiscal",
+        "spatial"
+      ],
+      "z": [
+        "device",
+        "meta-ecosystem"
+      ]
+    }
+  },
+  {
+    "id": "K-MARKET",
+    "name": "Market Box",
+    "type": "box",
+    "parentId": "K-META",
+    "bounds": {
+      "x": [
+        "observe",
+        "settle"
+      ],
+      "y": [
+        "fiscal",
+        "spatial"
+      ],
+      "z": [
+        "organization",
+        "ecosystem"
+      ]
+    }
+  },
+  {
+    "id": "K-ORG",
+    "name": "Organization Box",
+    "type": "box",
+    "parentId": "K-META",
+    "bounds": {
+      "x": [
+        "observe",
+        "settle"
+      ],
+      "y": [
+        "fiscal",
+        "spatial"
+      ],
+      "z": [
+        "device",
+        "organization"
+      ]
+    }
+  },
+  {
+    "id": "K-CAMPUS",
+    "name": "Campus Box",
+    "type": "box",
+    "parentId": "K-ORG",
+    "bounds": {
+      "x": [
+        "observe",
+        "settle"
+      ],
+      "y": [
+        "fiscal",
+        "spatial"
+      ],
+      "z": [
+        "device",
+        "campus"
+      ]
+    }
+  },
+  {
+    "id": "K-BUILDING-A",
+    "name": "Building A K-Box",
+    "type": "box",
+    "parentId": "K-CAMPUS",
+    "bounds": {
+      "x": [
+        "observe",
+        "settle"
+      ],
+      "y": [
+        "fiscal",
+        "spatial"
+      ],
+      "z": [
+        "device",
+        "site"
+      ]
+    }
+  },
+  {
+    "id": "WATT",
+    "name": "KINDRED-WATT Platform Volume",
+    "type": "volume",
+    "parentId": "K-META",
+    "bounds": {
+      "x": [
+        "measure",
+        "settle"
+      ],
+      "y": [
+        "energy",
+        "energy"
+      ],
+      "z": [
+        "device",
+        "network"
+      ]
+    }
+  },
+  {
+    "id": "WATT-BUILDING-A",
+    "name": "WATT Building A Volume",
+    "type": "volume",
+    "parentId": "K-BUILDING-A",
+    "bounds": {
+      "x": [
+        "measure",
+        "verify"
+      ],
+      "y": [
+        "energy",
+        "energy"
+      ],
+      "z": [
+        "device",
+        "site"
+      ]
+    }
+  },
+  {
+    "id": "G3T",
+    "name": "G3T Connected Volume",
+    "type": "volume",
+    "parentId": "K-META",
+    "bounds": {
+      "x": [
+        "observe",
+        "verify"
+      ],
+      "y": [
+        "communications",
+        "communications"
+      ],
+      "z": [
+        "device",
+        "network"
+      ]
+    }
+  },
+  {
+    "id": "RETROBANK",
+    "name": "RetroBank Fiscal Volume",
+    "type": "volume",
+    "parentId": "K-META",
+    "bounds": {
+      "x": [
+        "observe",
+        "settle"
+      ],
+      "y": [
+        "fiscal",
+        "fiscal"
+      ],
+      "z": [
+        "person",
+        "ecosystem"
+      ]
+    }
+  },
+  {
+    "id": "BRAINSTEM",
+    "name": "Brainstem Internal Cognitive Field",
+    "type": "field",
+    "parentId": "K-META",
+    "bounds": {
+      "x": [
+        "understand",
+        "verify"
+      ],
+      "y": [
+        "fiscal",
+        "spatial"
+      ],
+      "z": [
+        "device",
+        "ecosystem"
+      ]
+    },
+    "crossStrata": true
+  },
+  {
+    "id": "UQR",
+    "name": "Unified Quad Runtime Lattice",
+    "type": "lattice",
+    "parentId": "K-META",
+    "bounds": {
+      "x": [
+        "observe",
+        "settle"
+      ],
+      "y": [
+        "fiscal",
+        "spatial"
+      ],
+      "z": [
+        "device",
+        "ecosystem"
+      ]
+    },
+    "crossStrata": true
+  },
+  {
+    "id": "EMIT",
+    "name": "Emit Core Transition Volume",
+    "type": "field",
+    "parentId": "K-META",
+    "bounds": {
+      "x": [
+        "dispatch",
+        "verify"
+      ],
+      "y": [
+        "fiscal",
+        "spatial"
+      ],
+      "z": [
+        "device",
+        "ecosystem"
+      ]
+    },
+    "crossStrata": true
+  },
+  {
+    "id": "PLANE-FISCAL",
+    "name": "Fiscal Stratum X\u00d7Z Plane",
+    "type": "plane",
+    "parentId": "K-META",
+    "bounds": {
+      "x": [
+        "observe",
+        "settle"
+      ],
+      "y": [
+        "fiscal",
+        "fiscal"
+      ],
+      "z": [
+        "device",
+        "ecosystem"
+      ]
+    }
+  },
+  {
+    "id": "PLANE-ENERGY",
+    "name": "Energy Stratum X\u00d7Z Plane",
+    "type": "plane",
+    "parentId": "K-META",
+    "bounds": {
+      "x": [
+        "observe",
+        "settle"
+      ],
+      "y": [
+        "energy",
+        "energy"
+      ],
+      "z": [
+        "device",
+        "ecosystem"
+      ]
+    }
+  },
+  {
+    "id": "PLANE-COMMUNICATIONS",
+    "name": "Communications Stratum X\u00d7Z Plane",
+    "type": "plane",
+    "parentId": "K-META",
+    "bounds": {
+      "x": [
+        "observe",
+        "settle"
+      ],
+      "y": [
+        "communications",
+        "communications"
+      ],
+      "z": [
+        "device",
+        "ecosystem"
+      ]
+    }
+  },
+  {
+    "id": "PLANE-INFRASTRUCTURE",
+    "name": "Infrastructure Stratum X\u00d7Z Plane",
+    "type": "plane",
+    "parentId": "K-META",
+    "bounds": {
+      "x": [
+        "observe",
+        "settle"
+      ],
+      "y": [
+        "infrastructure",
+        "infrastructure"
+      ],
+      "z": [
+        "device",
+        "ecosystem"
+      ]
+    }
+  },
+  {
+    "id": "PLANE-INTELLIGENCE",
+    "name": "Intelligence Stratum X\u00d7Z Plane",
+    "type": "plane",
+    "parentId": "K-META",
+    "bounds": {
+      "x": [
+        "observe",
+        "settle"
+      ],
+      "y": [
+        "intelligence",
+        "intelligence"
+      ],
+      "z": [
+        "device",
+        "ecosystem"
+      ]
+    }
+  },
+  {
+    "id": "PLANE-SPATIAL",
+    "name": "Spatial / Digital Reality Stratum X\u00d7Z Plane",
+    "type": "plane",
+    "parentId": "K-META",
+    "bounds": {
+      "x": [
+        "observe",
+        "settle"
+      ],
+      "y": [
+        "spatial",
+        "spatial"
+      ],
+      "z": [
+        "device",
+        "ecosystem"
+      ]
+    }
+  }
+]

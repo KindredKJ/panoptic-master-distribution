@@ -1,0 +1,117 @@
+{
+  "missionId": "f6a3995f-d85e-4be2-be4a-f6c412e85bf1",
+  "adapterId": "adapter::brainstem-in-touch",
+  "simulation": true,
+  "execution": {
+    "status": "SIMULATED_SUCCESS",
+    "externalSuccess": false,
+    "reality": "SIMULATED",
+    "adapterId": "adapter::brainstem-in-touch",
+    "missionId": "f6a3995f-d85e-4be2-be4a-f6c412e85bf1"
+  },
+  "verification": {
+    "verified": true,
+    "observation": {
+      "observed": true,
+      "execution": {
+        "status": "SIMULATED_SUCCESS",
+        "externalSuccess": false,
+        "reality": "SIMULATED",
+        "adapterId": "adapter::brainstem-in-touch",
+        "missionId": "f6a3995f-d85e-4be2-be4a-f6c412e85bf1"
+      }
+    }
+  },
+  "trace": [
+    {
+      "stage": "DISCOVER",
+      "status": "OK",
+      "at": "2026-08-18T06:16:39.088Z"
+    },
+    {
+      "stage": "IDENTIFY",
+      "status": "OK",
+      "at": "2026-08-18T06:16:39.088Z"
+    },
+    {
+      "stage": "NORMALIZE",
+      "status": "OK",
+      "at": "2026-08-18T06:16:39.088Z"
+    },
+    {
+      "stage": "CLASSIFY",
+      "status": "OK",
+      "at": "2026-08-18T06:16:39.088Z"
+    },
+    {
+      "stage": "AUTHORIZE",
+      "status": "OK",
+      "at": "2026-08-18T06:16:39.088Z",
+      "bounded": true
+    },
+    {
+      "stage": "PLAN",
+      "status": "OK",
+      "at": "2026-08-18T06:16:39.088Z"
+    },
+    {
+      "stage": "ROUTE",
+      "status": "OK",
+      "at": "2026-08-18T06:16:39.088Z",
+      "adapterId": "adapter::brainstem-in-touch"
+    },
+    {
+      "stage": "PREFLIGHT",
+      "status": "OK",
+      "at": "2026-08-18T06:16:39.088Z"
+    },
+    {
+      "stage": "EXECUTE",
+      "status": "SIMULATED_SUCCESS",
+      "at": "2026-08-18T06:16:39.088Z",
+      "reality": "SIMULATED",
+      "externalSuccess": false
+    },
+    {
+      "stage": "OBSERVE",
+      "status": "OK",
+      "at": "2026-08-18T06:16:39.088Z"
+    },
+    {
+      "stage": "VERIFY",
+      "status": "OK",
+      "at": "2026-08-18T06:16:39.088Z"
+    },
+    {
+      "stage": "EVIDENCE",
+      "status": "RECORDED",
+      "at": "2026-08-18T06:16:39.088Z",
+      "evidenceId": "138585c8-e001-46e9-a0b8-68eba5bd753d"
+    },
+    {
+      "stage": "RECONCILE",
+      "status": "NO_EXTERNAL_SETTLEMENT",
+      "at": "2026-08-18T06:16:39.088Z"
+    },
+    {
+      "stage": "ATTRIBUTE_VALUE",
+      "status": "INTERNAL_ONLY",
+      "at": "2026-08-18T06:16:39.088Z"
+    },
+    {
+      "stage": "SETTLE",
+      "status": "BLOCKED_REALITY_BOUNDARY",
+      "at": "2026-08-18T06:16:39.088Z"
+    },
+    {
+      "stage": "LEARN",
+      "status": "LOCAL_FEEDBACK_ONLY",
+      "at": "2026-08-18T06:16:39.088Z"
+    },
+    {
+      "stage": "UPDATE_READ_MODEL",
+      "status": "OK",
+      "at": "2026-08-18T06:16:39.088Z"
+    }
+  ]
+}

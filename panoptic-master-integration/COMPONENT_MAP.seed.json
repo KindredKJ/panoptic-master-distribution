@@ -1,0 +1,169 @@
+{
+  "schemaVersion": "1.0",
+  "authority": "DISCOVERY_SEED_ONLY",
+  "rule": "Codex must verify actual local/repository contents before treating any role as authoritative.",
+  "components": [
+    {
+      "repo": "kindred-labs-superstructure",
+      "provisionalRole": "canonical governance / architecture registry",
+      "plane": "authority",
+      "priority": "P0"
+    },
+    {
+      "repo": "kindred-labs-genesis-v1",
+      "provisionalRole": "Kindred Prime / organization state / identity / RBAC / work / economic records",
+      "plane": "control",
+      "priority": "P0"
+    },
+    {
+      "repo": "kindred-brainstem",
+      "provisionalRole": "internal cognitive field / planning / diagnosis / learning",
+      "plane": "intelligence",
+      "priority": "P0"
+    },
+    {
+      "repo": "brainstem-in-touch",
+      "provisionalRole": "organizational/multi-company orchestration adapter; verify divergence from Brainstem",
+      "plane": "communications",
+      "priority": "P1"
+    },
+    {
+      "repo": "KINDRED_EMIT_CORE",
+      "provisionalRole": "execution / state transition / receipts / reality proof",
+      "plane": "execution",
+      "priority": "P0"
+    },
+    {
+      "repo": "KINDRED-WATT",
+      "provisionalRole": "energy stratum / bounded infrastructure optimization",
+      "plane": "energy",
+      "priority": "P0"
+    },
+    {
+      "repo": "kindred-cloud",
+      "provisionalRole": "infrastructure/cloud provider surface; authority reconciliation required",
+      "plane": "infrastructure",
+      "priority": "P1"
+    },
+    {
+      "repo": "Kindred-Cloud---KINNECT-K-A-S-",
+      "provisionalRole": "legacy/cloud shell; verify authority",
+      "plane": "infrastructure",
+      "priority": "P2"
+    },
+    {
+      "repo": "KINDRED-AI-LAB--AI-Development-Environment-",
+      "provisionalRole": "AI development environment / VM / G3T lineage / local infra",
+      "plane": "infrastructure",
+      "priority": "P1"
+    },
+    {
+      "repo": "StrataCast",
+      "provisionalRole": "spatial engine / world compilation",
+      "plane": "spatial",
+      "priority": "P1"
+    },
+    {
+      "repo": "AI-Crawl",
+      "provisionalRole": "spatial/digital product layer",
+      "plane": "spatial",
+      "priority": "P1"
+    },
+    {
+      "repo": "AI-Crawl-2026-07-29_01-28-53",
+      "provisionalRole": "snapshot/legacy; verify",
+      "plane": "spatial",
+      "priority": "P3"
+    },
+    {
+      "repo": "kindred-h-caret",
+      "provisionalRole": "H^ / HYDRA model platform research",
+      "plane": "intelligence",
+      "priority": "P1"
+    },
+    {
+      "repo": "IAMI-X",
+      "provisionalRole": "local small-model runtime",
+      "plane": "intelligence",
+      "priority": "P1"
+    },
+    {
+      "repo": "IAMI",
+      "provisionalRole": "legacy model lineage",
+      "plane": "intelligence",
+      "priority": "P3"
+    },
+    {
+      "repo": "KINDRED-LLM",
+      "provisionalRole": "legacy model lineage",
+      "plane": "intelligence",
+      "priority": "P3"
+    },
+    {
+      "repo": "kindred-swarm-core",
+      "provisionalRole": "optimization/swarm service",
+      "plane": "intelligence",
+      "priority": "P1"
+    },
+    {
+      "repo": "KINDRED-Optimization-Suite",
+      "provisionalRole": "optimization/tuning service",
+      "plane": "intelligence",
+      "priority": "P1"
+    },
+    {
+      "repo": "00DeskTop_Project",
+      "provisionalRole": "desktop perception",
+      "plane": "experience",
+      "priority": "P2"
+    },
+    {
+      "repo": "Agent-00DT-Unified-Desktop-AI-agent",
+      "provisionalRole": "bounded desktop agent / policy / planning",
+      "plane": "experience",
+      "priority": "P2"
+    },
+    {
+      "repo": "KindredAINexus",
+      "provisionalRole": "companion / persistence / rewards lineage",
+      "plane": "experience",
+      "priority": "P2"
+    },
+    {
+      "repo": "K1_Assistant",
+      "provisionalRole": "niche service/orchestration prototype",
+      "plane": "product",
+      "priority": "P2"
+    },
+    {
+      "repo": "K1",
+      "provisionalRole": "legacy namespace/on-chain lineage; verify",
+      "plane": "product",
+      "priority": "P3"
+    },
+    {
+      "repo": "KINDRED_ASI_828",
+      "provisionalRole": "security/orchestration/swarm lineage",
+      "plane": "control",
+      "priority": "P2"
+    },
+    {
+      "repo": "FM2TW",
+      "provisionalRole": "legacy/custom AI platform lineage",
+      "plane": "unknown",
+      "priority": "P3"
+    },
+    {
+      "repo": "Successor",
+      "provisionalRole": "empty/placeholder; verify",
+      "plane": "unknown",
+      "priority": "P3"
+    },
+    {
+      "repo": "vite-react",
+      "provisionalRole": "generic UI scaffold; verify use",
+      "plane": "experience",
+      "priority": "P3"
+    }
+  ]
+}

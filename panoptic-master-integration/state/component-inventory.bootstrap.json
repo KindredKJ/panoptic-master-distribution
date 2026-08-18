@@ -1,0 +1,415 @@
+[
+  {
+    "name": "00DeskTop_Project",
+    "github": "KindredKJ/00DeskTop_Project",
+    "localPaths": [],
+    "discovered": false,
+    "gitStates": []
+  },
+  {
+    "name": "Agent-00DT-Unified-Desktop-AI-agent",
+    "github": "KindredKJ/Agent-00DT-Unified-Desktop-AI-agent",
+    "localPaths": [],
+    "discovered": false,
+    "gitStates": []
+  },
+  {
+    "name": "AI-Crawl",
+    "github": "KindredKJ/AI-Crawl",
+    "localPaths": [
+      "C:\\KindredLabs\\AI-Crawl",
+      "C:\\KindredLabs\\stratacast\\apps\\ai-crawl",
+      "D:\\KindredLabs\\kindred-labs-superstructure\\applications\\ai-crawl"
+    ],
+    "discovered": true,
+    "gitStates": [
+      {
+        "path": "C:\\KindredLabs\\AI-Crawl",
+        "isGit": true,
+        "branch": "main",
+        "head": "e0974a5f2f87232f2b4536200b6e344e2689c1e7",
+        "dirty": true,
+        "remote": "https://github.com/KindredKJ/AI-Crawl.git"
+      },
+      {
+        "path": "C:\\KindredLabs\\stratacast\\apps\\ai-crawl",
+        "isGit": false,
+        "branch": null,
+        "head": null,
+        "dirty": null,
+        "remote": null
+      },
+      {
+        "path": "D:\\KindredLabs\\kindred-labs-superstructure\\applications\\ai-crawl",
+        "isGit": false,
+        "branch": null,
+        "head": null,
+        "dirty": null,
+        "remote": null
+      }
+    ]
+  },
+  {
+    "name": "AI-Crawl-2026-07-29_01-28-53",
+    "github": "KindredKJ/AI-Crawl-2026-07-29_01-28-53",
+    "localPaths": [],
+    "discovered": false,
+    "gitStates": []
+  },
+  {
+    "name": "brainstem-in-touch",
+    "github": "KindredKJ/brainstem-in-touch",
+    "localPaths": [
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\brainstem-in-touch"
+    ],
+    "discovered": true,
+    "gitStates": [
+      {
+        "path": "C:\\Users\\Kindred KJ Cox\\KindredLabs\\brainstem-in-touch",
+        "isGit": true,
+        "branch": "main",
+        "head": "328813aebfea8eb6d4d71ef49ed568b36ad1bcb0",
+        "dirty": false,
+        "remote": "https://github.com/KindredKJ/brainstem-in-touch.git"
+      }
+    ]
+  },
+  {
+    "name": "FM2TW",
+    "github": "KindredKJ/FM2TW",
+    "localPaths": [],
+    "discovered": false,
+    "gitStates": []
+  },
+  {
+    "name": "IAMI",
+    "github": "KindredKJ/IAMI",
+    "localPaths": [],
+    "discovered": false,
+    "gitStates": []
+  },
+  {
+    "name": "IAMI-X",
+    "github": "KindredKJ/IAMI-X",
+    "localPaths": [
+      "C:\\KindredLabs\\Ecosystem-Audit\\sandboxes\\IAMI-X"
+    ],
+    "discovered": true,
+    "gitStates": [
+      {
+        "path": "C:\\KindredLabs\\Ecosystem-Audit\\sandboxes\\IAMI-X",
+        "isGit": false,
+        "branch": null,
+        "head": null,
+        "dirty": null,
+        "remote": null
+      }
+    ]
+  },
+  {
+    "name": "K1",
+    "github": "KindredKJ/K1",
+    "localPaths": [
+      "D:\\KindredLabs\\kindred-labs-superstructure\\verticals\\k1"
+    ],
+    "discovered": true,
+    "gitStates": [
+      {
+        "path": "D:\\KindredLabs\\kindred-labs-superstructure\\verticals\\k1",
+        "isGit": false,
+        "branch": null,
+        "head": null,
+        "dirty": null,
+        "remote": null
+      }
+    ]
+  },
+  {
+    "name": "K1_Assistant",
+    "github": "KindredKJ/K1_Assistant",
+    "localPaths": [],
+    "discovered": false,
+    "gitStates": []
+  },
+  {
+    "name": "KINDRED-AI-LAB--AI-Development-Environment-",
+    "github": "KindredKJ/KINDRED-AI-LAB--AI-Development-Environment-",
+    "localPaths": [],
+    "discovered": false,
+    "gitStates": []
+  },
+  {
+    "name": "kindred-brainstem",
+    "github": "KindredKJ/kindred-brainstem",
+    "localPaths": [
+      "C:\\KindredLabs\\kindred-brainstem",
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\kindred-brainstem"
+    ],
+    "discovered": true,
+    "gitStates": [
+      {
+        "path": "C:\\KindredLabs\\kindred-brainstem",
+        "isGit": true,
+        "branch": "main",
+        "head": "7ec86653a73c635b5bff69c4819ff050fafb6976",
+        "dirty": true,
+        "remote": "https://github.com/KindredKJ/kindred-brainstem.git"
+      },
+      {
+        "path": "C:\\Users\\Kindred KJ Cox\\KindredLabs\\kindred-brainstem",
+        "isGit": true,
+        "branch": "feat/external-frontier-benchmarks",
+        "head": "7d2085efd35aae50cc32d2e62b67c65517e3d99f",
+        "dirty": false,
+        "remote": "https://github.com/KindredKJ/kindred-brainstem.git"
+      }
+    ]
+  },
+  {
+    "name": "kindred-cloud",
+    "github": "KindredKJ/kindred-cloud",
+    "localPaths": [
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\kindred-cloud"
+    ],
+    "discovered": true,
+    "gitStates": [
+      {
+        "path": "C:\\Users\\Kindred KJ Cox\\KindredLabs\\kindred-cloud",
+        "isGit": true,
+        "branch": "main",
+        "head": "35b754c47361281acdd7c5f5a2677ed9a08fc51e",
+        "dirty": false,
+        "remote": "https://github.com/KindredKJ/kindred-cloud.git"
+      }
+    ]
+  },
+  {
+    "name": "Kindred-Cloud---KINNECT-K-A-S-",
+    "github": "KindredKJ/Kindred-Cloud---KINNECT-K-A-S-",
+    "localPaths": [],
+    "discovered": false,
+    "gitStates": []
+  },
+  {
+    "name": "kindred-h-caret",
+    "github": "KindredKJ/kindred-h-caret",
+    "localPaths": [
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\kindred-h-caret"
+    ],
+    "discovered": true,
+    "gitStates": [
+      {
+        "path": "C:\\Users\\Kindred KJ Cox\\KindredLabs\\kindred-h-caret",
+        "isGit": true,
+        "branch": "hcaret-final-integration",
+        "head": "b1e5119e3a91572e08de1cee302468441ba47940",
+        "dirty": true,
+        "remote": "https://github.com/KindredKJ/kindred-h-caret.git"
+      }
+    ]
+  },
+  {
+    "name": "kindred-labs-genesis-v1",
+    "github": "KindredKJ/kindred-labs-genesis-v1",
+    "localPaths": [
+      "C:\\KindredLabs\\kindred-labs-genesis-v1"
+    ],
+    "discovered": true,
+    "gitStates": [
+      {
+        "path": "C:\\KindredLabs\\kindred-labs-genesis-v1",
+        "isGit": true,
+        "branch": "recovery/verified-20260803-224336",
+        "head": "cd500c30c6f945152b1d7adcfb7482bdc03a814c",
+        "dirty": false,
+        "remote": "https://github.com/KindredKJ/kindred-labs-genesis-v1.git"
+      }
+    ]
+  },
+  {
+    "name": "kindred-labs-superstructure",
+    "github": "KindredKJ/kindred-labs-superstructure",
+    "localPaths": [
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\repos\\kindred-labs-superstructure",
+      "D:\\KindredLabs\\kindred-labs-superstructure"
+    ],
+    "discovered": true,
+    "gitStates": [
+      {
+        "path": "C:\\Users\\Kindred KJ Cox\\KindredLabs\\repos\\kindred-labs-superstructure",
+        "isGit": true,
+        "branch": "main",
+        "head": "8e249fef7c6dcb0e3e090c71ccb43033defed562",
+        "dirty": false,
+        "remote": "https://github.com/KindredKJ/kindred-labs-superstructure.git"
+      },
+      {
+        "path": "D:\\KindredLabs\\kindred-labs-superstructure",
+        "isGit": true,
+        "branch": "codex/whitepaper-superstructure-completion",
+        "head": "21f8b2693aaa99f6a6f63242b8709cf349d8dd5b",
+        "dirty": true,
+        "remote": "https://github.com/KindredKJ/kindred-labs-superstructure.git"
+      }
+    ]
+  },
+  {
+    "name": "KINDRED-LLM",
+    "github": "KindredKJ/KINDRED-LLM",
+    "localPaths": [],
+    "discovered": false,
+    "gitStates": []
+  },
+  {
+    "name": "KINDRED-Optimization-Suite",
+    "github": "KindredKJ/KINDRED-Optimization-Suite",
+    "localPaths": [],
+    "discovered": false,
+    "gitStates": []
+  },
+  {
+    "name": "kindred-swarm-core",
+    "github": "KindredKJ/kindred-swarm-core",
+    "localPaths": [
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\repos\\kindred-swarm-core"
+    ],
+    "discovered": true,
+    "gitStates": [
+      {
+        "path": "C:\\Users\\Kindred KJ Cox\\KindredLabs\\repos\\kindred-swarm-core",
+        "isGit": true,
+        "branch": "main",
+        "head": "a43018a66a05c38e5f786a0cd0f4f54ed7c730f6",
+        "dirty": false,
+        "remote": "https://github.com/KindredKJ/kindred-swarm-core.git"
+      }
+    ]
+  },
+  {
+    "name": "KINDRED-WATT",
+    "github": "KindredKJ/KINDRED-WATT",
+    "localPaths": [],
+    "discovered": false,
+    "gitStates": []
+  },
+  {
+    "name": "KindredAINexus",
+    "github": "KindredKJ/KindredAINexus",
+    "localPaths": [],
+    "discovered": false,
+    "gitStates": []
+  },
+  {
+    "name": "KINDRED_ASI_828",
+    "github": "KindredKJ/KINDRED_ASI_828",
+    "localPaths": [
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\Kindred-Evolution-Authority\\KINDRED-WATT-83b30e0\\kindred_asi_828",
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\Kindred-Evolution-Authority\\KINDRED-WATT-Baseline-Validation\\kindred_asi_828",
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\Kindred-Evolution-Cells\\KINDRED-WATT.Promotion.477da3b\\kindred_asi_828",
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\_audit\\KINDRED-WATT-lineage\\kindred_asi_828"
+    ],
+    "discovered": true,
+    "gitStates": [
+      {
+        "path": "C:\\Users\\Kindred KJ Cox\\KindredLabs\\Kindred-Evolution-Authority\\KINDRED-WATT-83b30e0\\kindred_asi_828",
+        "isGit": false,
+        "branch": null,
+        "head": null,
+        "dirty": null,
+        "remote": null
+      },
+      {
+        "path": "C:\\Users\\Kindred KJ Cox\\KindredLabs\\Kindred-Evolution-Authority\\KINDRED-WATT-Baseline-Validation\\kindred_asi_828",
+        "isGit": false,
+        "branch": null,
+        "head": null,
+        "dirty": null,
+        "remote": null
+      },
+      {
+        "path": "C:\\Users\\Kindred KJ Cox\\KindredLabs\\Kindred-Evolution-Cells\\KINDRED-WATT.Promotion.477da3b\\kindred_asi_828",
+        "isGit": false,
+        "branch": null,
+        "head": null,
+        "dirty": null,
+        "remote": null
+      },
+      {
+        "path": "C:\\Users\\Kindred KJ Cox\\KindredLabs\\_audit\\KINDRED-WATT-lineage\\kindred_asi_828",
+        "isGit": false,
+        "branch": null,
+        "head": null,
+        "dirty": null,
+        "remote": null
+      }
+    ]
+  },
+  {
+    "name": "KINDRED_EMIT_CORE",
+    "github": "KindredKJ/KINDRED_EMIT_CORE",
+    "localPaths": [],
+    "discovered": false,
+    "gitStates": []
+  },
+  {
+    "name": "StrataCast",
+    "github": "KindredKJ/StrataCast",
+    "localPaths": [
+      "C:\\KindredLabs\\StrataCast",
+      "C:\\KindredLabs\\stratacast"
+    ],
+    "discovered": true,
+    "gitStates": [
+      {
+        "path": "C:\\KindredLabs\\StrataCast",
+        "isGit": true,
+        "branch": "feat/genesis-world-v1-20260723-050730",
+        "head": "051a535c99938608f1a70d20c8bbccc8e0577663",
+        "dirty": false,
+        "remote": "https://github.com/KindredKJ/StrataCast.git"
+      },
+      {
+        "path": "C:\\KindredLabs\\stratacast",
+        "isGit": true,
+        "branch": "feat/genesis-world-v1-20260723-050730",
+        "head": "051a535c99938608f1a70d20c8bbccc8e0577663",
+        "dirty": false,
+        "remote": "https://github.com/KindredKJ/StrataCast.git"
+      }
+    ]
+  },
+  {
+    "name": "Successor",
+    "github": "KindredKJ/Successor",
+    "localPaths": [
+      "C:\\KindredLabs\\Successor",
+      "C:\\Users\\Kindred KJ Cox\\KindredLabs\\Successor"
+    ],
+    "discovered": true,
+    "gitStates": [
+      {
+        "path": "C:\\KindredLabs\\Successor",
+        "isGit": true,
+        "branch": "main",
+        "head": "f1a4783bbd8873b3a01c5c47ffa884e36d8f7a00",
+        "dirty": true,
+        "remote": "https://github.com/KindredKJ/Successor.git"
+      },
+      {
+        "path": "C:\\Users\\Kindred KJ Cox\\KindredLabs\\Successor",
+        "isGit": false,
+        "branch": null,
+        "head": null,
+        "dirty": null,
+        "remote": null
+      }
+    ]
+  },
+  {
+    "name": "vite-react",
+    "github": "KindredKJ/vite-react",
+    "localPaths": [],
+    "discovered": false,
+    "gitStates": []
+  }
+]

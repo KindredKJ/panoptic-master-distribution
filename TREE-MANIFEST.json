@@ -1,0 +1,523 @@
+{
+  "schemaVersion": "1.0",
+  "artifactClass": "GITHUB_SANITIZED_SOURCE_MIRROR",
+  "generatedAt": "2026-08-18T00:50:51.0507276-06:00",
+  "fileCount": 103,
+  "files": [
+    {
+      "path": "mirror\\kindred-panoptic-master\\.gitignore",
+      "bytes": 76,
+      "sha256": "692EDED659B8F84673520E2ADC190A78B8F9781EC8A3FEEC6871F2927E0A5DEF"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\config\\adapters.json",
+      "bytes": 859,
+      "sha256": "93CE019D8BA868A0E65F6FA1544ECBF44588237E2B2E749D7AD497A3389E6967"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\config\\cube-topology.json",
+      "bytes": 2708,
+      "sha256": "318F06636D090898E259FB12A3AAFFF18925E0CCBABD0E252DBF22BDED810A06"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\config\\geometry.json",
+      "bytes": 2689,
+      "sha256": "8B057F13A3F957478A9D170D05D321D8858DD5ADA77E51E0760DC62EC8FE8BD1"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\config\\policies.json",
+      "bytes": 780,
+      "sha256": "C8D4239E1EA44A60A8DF1E0014D5AA0F48674A9F0DB23C45DA1A10F3B03821FB"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\config\\strata.json",
+      "bytes": 1393,
+      "sha256": "1E3350005A5F8EA6EC48210BED946D75553B8EA525CB9EA170EF6F1F50039942"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\config\\volumes.json",
+      "bytes": 6184,
+      "sha256": "D4FE081002B7297A16BEFCDC5E745F9B98399CBF83F9FB6AC9A4697B530C03E5"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\docs\\ARCHITECTURE.md",
+      "bytes": 2870,
+      "sha256": "B2A56F136C93A5149102B84BB15656EC533F791115ACB091FE1EF24F7EA3057E"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\docs\\SECURITY.md",
+      "bytes": 981,
+      "sha256": "FFDEAEB2AECC93434566166C73752C6BE62FC0EF01DAC18FC850011CF5C9BA91"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\Invoke-KindredPanopticMasterDemo.ps1",
+      "bytes": 102,
+      "sha256": "DB17BF1A2E578185E82502952B40100080676B021FF9E1DE4EB510879F5B2E1D"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\Open-KindredPanopticMaster.ps1",
+      "bytes": 179,
+      "sha256": "68D7A144A054659EBD683430BFDF121902B77C009A9E6DC103D82EA18B604617"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\package.json",
+      "bytes": 617,
+      "sha256": "B328C4A750FE52134FABF3355BCFA480EA3C2A9EB42F057E481412218EA09D22"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\README.md",
+      "bytes": 1107,
+      "sha256": "D6DEDAB532A502EE9383AC4273DF19456EF5FD453D07213C72888BB36BA0369B"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\scripts\\demo.mjs",
+      "bytes": 1637,
+      "sha256": "A0D178A5016F61BFF11F58F1428F4D0B4678F417F23E56E2023F86B7ABF23F47"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\scripts\\verify-master.mjs",
+      "bytes": 399,
+      "sha256": "76DD8ACEC4D5789D8CC313DE8B6D92839F5FB7EF2E29A91245F915B647AAF34C"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\adapters\\registry.mjs",
+      "bytes": 881,
+      "sha256": "49814810C6ACEF5390201B59F667C413BB84B8BB28FB28B1FBEAC3E3E496C723"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\api\\dashboard.html",
+      "bytes": 2583,
+      "sha256": "34A33C4F38DEF76A776CF0EE58E8D88E54C9921C49EB8A9BE01A74FB28F01DF9"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\api\\server.mjs",
+      "bytes": 5325,
+      "sha256": "DD0DFA2C70568420E143C66A303B54005FD0CFCC136F736FCE37236E2EBB29F9"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\authority\\approval-service.mjs",
+      "bytes": 1839,
+      "sha256": "4132DA373883E467D486E405AAC8E0C34F845164EBAD780DDCF19051A2731944"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\authority\\founder-keys.mjs",
+      "bytes": 1269,
+      "sha256": "0B8813E1A704384D7ABA362971AEDAB82677F4699BEDFD75AF15DD86D61694D4"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\brainstem\\index.mjs",
+      "bytes": 1049,
+      "sha256": "257094FAE08BE82600E19629501978688E84339DD7F1F56EEE0E4259D4384F54"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\core\\config.mjs",
+      "bytes": 511,
+      "sha256": "929331C8C3BC0E77DF8FCF0D875EC6D33FBB63A042401DE52D79EF059FDCD439"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\core\\paths.mjs",
+      "bytes": 187,
+      "sha256": "F56E4BDAAE0FF6B0E1F966E992F61FC751F57CEF4E600526D88468D82F4DF71F"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\core\\stable-json.mjs",
+      "bytes": 362,
+      "sha256": "DEE894CCBEA29F1EBBB9499A71E09F544B2C8F59B2598F4090AE5CBAA0EE353E"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\core\\store.mjs",
+      "bytes": 1537,
+      "sha256": "77B9F480C746E508A81F6D8827672AE9FF4037A9BC55CE8FE455CCB987E8651C"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\emit\\index.mjs",
+      "bytes": 1575,
+      "sha256": "3AE4CE81147900063E34FE51FBEEA12492057833F8A7E0A10F5F3AEDE09C0C4F"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\evidence\\index.mjs",
+      "bytes": 2810,
+      "sha256": "A5836304A0DEA2DE43883895F9FE2AF60F05EE129DAB7F7E98D8ACD13F48380D"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\geometry\\axes.mjs",
+      "bytes": 1140,
+      "sha256": "3C9D575C57BA29DFE4B23E144BF8B35CDCAB91F0470279F68ECE8C87E68969BB"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\geometry\\cube-topology.mjs",
+      "bytes": 2050,
+      "sha256": "EF395463475A758BE316BBC7F8A0CA3710EE8CA22C4B472610BF38D5832AD8D4"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\geometry\\volume-engine.mjs",
+      "bytes": 3986,
+      "sha256": "66AE1AF803F2343D21DC5461E5307841C5D7C19FA2D7F4E22CEF6B352C088EDC"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\meta-control\\index.mjs",
+      "bytes": 481,
+      "sha256": "AC03F3A72E356F0F60A9EFA06603B8DE92783540D56B815AEE9CB1E8EE252E97"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\panoptic\\read-model.mjs",
+      "bytes": 2610,
+      "sha256": "CE5A25498F9776E20A633C70582B87752A986F4EF328047CB636FA46142DAE09"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\port-zero\\index.mjs",
+      "bytes": 583,
+      "sha256": "4921EAABAFCAE7B07BF63387F7A6AC438651ADB1289DC4182ABFE9BC92AA4249"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\registry\\volume-registry.mjs",
+      "bytes": 2993,
+      "sha256": "22A3DE0E9ABE8D890B897FE5F770D43C35A20F663DF43F5EF58DBCE3A8EA6E4B"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\retrobank\\index.mjs",
+      "bytes": 993,
+      "sha256": "1A2BE7F7C7A6534A552FDA41D3AD6AFFBD52CB391CB5C9A12FAD1CA9BD0DD49B"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\runtime\\pipeline.mjs",
+      "bytes": 2981,
+      "sha256": "29F6A08D1BE136712F0A83AD8962E146CD30DB42A2F61D432543B6BC21575789"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\runtime\\system.mjs",
+      "bytes": 1533,
+      "sha256": "50B8430835599D46FAE174E445A94B91D28A91EF3C46DEA07457EC143260A037"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\src\\uqr\\index.mjs",
+      "bytes": 610,
+      "sha256": "DA7632C960E984DE70C57AC89B42C76B534476D622F58C818B4C439D4401CEF5"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\Start-KindredPanopticMaster.ps1",
+      "bytes": 104,
+      "sha256": "8B7EE7CED223909F116A526BD78C6798794291F11475F0E10290E284AF27CB29"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\Test-KindredPanopticMaster.ps1",
+      "bytes": 360,
+      "sha256": "57B27E297AE683B3AC4AA2D0A5031628E4D019A44319EA7DE545E6ED7CFCAAB9"
+    },
+    {
+      "path": "mirror\\kindred-panoptic-master\\test\\master.test.mjs",
+      "bytes": 4610,
+      "sha256": "CB70E5BFDF19E415CDD4F9C7A2E3113CAFD6D3C14BF49EF0BBBD39D47165BE0D"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\.gitignore",
+      "bytes": 158,
+      "sha256": "F1F051652A259A96E04B57907EEA6473F9EB60F62C4FE93F8F33E1F36D90383A"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\AGENTS.md",
+      "bytes": 4599,
+      "sha256": "D1A61941ABC3DE6AF9A3A21387AB39BFD12770B9BCE1BA4D3150663F388E693B"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\COMMERCIAL-SERVICE-BLUEPRINT.md",
+      "bytes": 1006,
+      "sha256": "540F01464AE36CE205D2292E6E4CBE4AE34831EBAE6B695083E456C4388235F8"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\COMPONENT_MAP.seed.json",
+      "bytes": 4740,
+      "sha256": "69D1B426D9897F93BBB8EC87B3602C71A17196B9CFEBCD146B5406C7AB7E8329"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\demos\\run-a4-demo.mjs",
+      "bytes": 785,
+      "sha256": "0485CEFDC01820E3504A303671A721774EC17D41CE18415783926F6694B12E46"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\demos\\run-commercial-demo.mjs",
+      "bytes": 225,
+      "sha256": "BCD0CF9C86920FB1ED854F39F8516FE3572301A0D2AFD3601C722D93BDE871F0"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\demos\\run-safe-demo.mjs",
+      "bytes": 682,
+      "sha256": "F3C6E24D144195A3A52B5E1DAC206B259F13D9F0A69099B1B7211F176D438B40"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\MASTER-OPERATOR-MANUAL.md",
+      "bytes": 1984,
+      "sha256": "60B2FE9AA1D260FAD772C52EE7254C4779248F7978D8FD69F8740F79E1E509FF"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\package.json",
+      "bytes": 389,
+      "sha256": "C321632B79387D75E132B29996B722C67F2F126E545523665CA6D2ABD2C55E0D"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\PANOPTIC_MASTER_CODEX_PROMPT.md",
+      "bytes": 15461,
+      "sha256": "0699B6B62D40C246D03B6931FBDE0CCE897EB404D3F5BB4580550D6190B628F0"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\reports\\A4-DEMO.json",
+      "bytes": 1436,
+      "sha256": "2E10486D521DB7F1732F9EB3AF62E823ECCF3DF9C3EBA08102BF91399B1C5C33"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\reports\\COMMERCIAL-DEMO.json",
+      "bytes": 444,
+      "sha256": "59E247E0998E27B64D57D1A486BF5A177EAC5C3C85DDACFBE923FE95FA6B261B"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\reports\\PANOPTIC-INTEGRATION-STATUS.md",
+      "bytes": 900,
+      "sha256": "82095AC1F698A9F888E2D3E38B8394F97D74FD1E2D7944514EABD86EDD88C3AD"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\reports\\SAFE-DEMO.json",
+      "bytes": 2830,
+      "sha256": "E139ADBBF0EDA67A028E83847A62B8E3A05CD9C75E47C124166693C9EBA3360D"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\scripts\\audit.mjs",
+      "bytes": 836,
+      "sha256": "366F541433021A6A3598C257EDE178B225C0040DF47FF231A6AE212AEF36B4B2"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\scripts\\Backup-PanopticDirect.ps1",
+      "bytes": 1551,
+      "sha256": "25CE2B9EAE49B9208C6C4FF65797950F976B4B536E5D67D73AB1AC852C7CE4C8"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\scripts\\Backup-PanopticIntegration.ps1",
+      "bytes": 1450,
+      "sha256": "6C0DF776C9EE8DF192C48D63ECEDB7C28EB0FD19BA7F6B937CC59696FCA81A6E"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\scripts\\Invoke-PanopticCodexMission.ps1",
+      "bytes": 248,
+      "sha256": "834581F950352450F9F51AF07664E832EB08B2E433FCE7643F6D14693323E788"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\scripts\\Restore-PanopticDirect.ps1",
+      "bytes": 894,
+      "sha256": "BB9B4069F29B054BC4A7E791434D5761C12802F6C8060C0BDE983EAF4609A5CC"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\scripts\\Start-PanopticCodex.ps1",
+      "bytes": 316,
+      "sha256": "6C5ACDCCAB217DE3789583E2D436519B6AA162593E59877FD5119F7E69A9A98C"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\scripts\\verify.mjs",
+      "bytes": 1115,
+      "sha256": "57A8A5ACF62E9D8B0186B32D75551C19E61A3F6913E86DFA9FB9474E441945A9"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\specs\\ADAPTER-CONTRACT.md",
+      "bytes": 726,
+      "sha256": "A6595F4F75A3472B363272D1C004E7B5A92A02DC0F76461FF1DC2CC9C055526E"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\specs\\evidence-envelope.schema.json",
+      "bytes": 1139,
+      "sha256": "32EF5A5A306F6D45A67D740564D1038ED463D7951DAECE8C324BC5C15EBCCBEA"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\specs\\mission-envelope.schema.json",
+      "bytes": 1712,
+      "sha256": "73A88D13C044B8D1E885403D70FCC4B4A256FA0016B9B29B8F900AD2AE31FEC0"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\specs\\PIPELINE-CONTRACT.md",
+      "bytes": 601,
+      "sha256": "29778FCB2D03BE21B008708C757AA699223766262BBBF4B3B595622D9AEDC2EC"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\src\\adapters\\base.mjs",
+      "bytes": 1815,
+      "sha256": "AF40241399284475775166BCE00D094D42E1B185384BBC2F71169473C897BBCB"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\src\\autonomy\\supervisor.mjs",
+      "bytes": 1685,
+      "sha256": "F2ABA99CD726529861FDC87BD119A1AFDC1DB022C313537C7585429566A56E08"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\src\\commercial\\provision.mjs",
+      "bytes": 618,
+      "sha256": "E6D1904BD915D2F8D1AE0937856FEED1B76CA68873A9E823791BB9F263E141E4"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\src\\contracts\\mission.mjs",
+      "bytes": 1707,
+      "sha256": "B000FFDE2EE31420BD9E8F646A965FADF762000F8DB3FFFA0041800DC9F4A967"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\src\\contracts\\reality.mjs",
+      "bytes": 1058,
+      "sha256": "F1681ABED4C37F9C18ECFB1ED151A3DD7F38D7B278140DD66C9AD7DB124B7043"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\src\\models\\router.mjs",
+      "bytes": 991,
+      "sha256": "9464A326DA3A6216B275B51AAAA636CD8DAF683E86BD18586D4F24420872BF96"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\src\\nodes\\enrollment.mjs",
+      "bytes": 681,
+      "sha256": "A2CCABF69C614E5436A3F66B826961BBF8422DD6756D70EE4C92FF28E15D3EA7"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\src\\pipeline\\engine.mjs",
+      "bytes": 2403,
+      "sha256": "ACD1C5DA0932381E6F6B341DFC15035FD397215BCAC0A418E4AF8D4C0C8678C2"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\src\\registry\\adapters.mjs",
+      "bytes": 876,
+      "sha256": "1AC80F01C27AF95D387206DBBA9199E0D2AA02947610A247501B32AB2B16CBF3"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\state\\adapter-registry.json",
+      "bytes": 9721,
+      "sha256": "B0699323E63183A9B5DA6483EDA9B4298D4E1A37A07A0A54558204912E950CE0"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\state\\capability-registry.json",
+      "bytes": 1497,
+      "sha256": "FC5CB584614ED09BD2C6188F2A654C4CD27A5F289655BFBA4EDBD24855A30356"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\state\\commercial-service-registry.json",
+      "bytes": 672,
+      "sha256": "21BB02701C03642B14B2D32ACE236924A395833704143E79DF243A1D9E1C42D8"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\state\\component-inventory.bootstrap.json",
+      "bytes": 12089,
+      "sha256": "6DC2551EA510A2B8E2340803D70EDCCD01A30A9DA3BD2DE414D4807E8A87D530"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\state\\component-inventory.json",
+      "bytes": 14213,
+      "sha256": "0108DC090C67F68F1D480D487B615C91C1CA0F50AE732B981BA157F1F1E76A8C"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\state\\evidence-gap-register.json",
+      "bytes": 1638,
+      "sha256": "FB88098A9B407EE6EBEFFF720EBAD9D2A3158C86844D9CB343E923273E37E59E"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\state\\panoptic-baseline.direct.json",
+      "bytes": 383,
+      "sha256": "F1D6FFFC300C107D17831A60D90C8B9DDF0AED1665715E016A75CEFF00D3E8DC"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\state\\panoptic-baseline.json",
+      "bytes": 267,
+      "sha256": "3F31A793FBDE46E41E9FFC00814F2E5A03D59A5A865947ABCA74FF7D6B3BCDEF"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\state\\pipeline-registry.json",
+      "bytes": 787,
+      "sha256": "813B8383E3F6A603E6248C015B471CC333D6D507D2846C3249E74C9C2748CA1E"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\test\\integration.test.mjs",
+      "bytes": 2949,
+      "sha256": "28A339EE2E7B70FFFA154E930ACE11E540F434E1A89C4F1AB22E59BBD4FED476"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\01-Panoptic-Geometry-and-Port-Zero.md",
+      "bytes": 931,
+      "sha256": "0D148EC2E318EB148BED75708687ADC10901644D41E742BA39F4B125506A4550"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\02-Authority-Founder-Approval-and-Identity.md",
+      "bytes": 941,
+      "sha256": "54DBD71A71DA6B24028898678A07F5144DBAC1673C3B60BB67D93E47AEC741E8"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\03-Start-Stop-Status-and-Test.md",
+      "bytes": 929,
+      "sha256": "DB8F103293F5A7A51B63D765D1ED8BB437A5DEC19479ADE42431F4063DFC94C9"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\04-Evidence-and-Reality-Classes.md",
+      "bytes": 928,
+      "sha256": "0A38D0F96127A3E33AF2FA2790924B8F95F5942609F8BCF0FC8575F7CCD311CD"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\05-Creating-a-K-Box-Volume.md",
+      "bytes": 923,
+      "sha256": "68F4FAEC65A4EEB70B22C6AC24B1233C34B66C616B3E26E2C83FC976688605ED"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\06-Building-an-Adapter.md",
+      "bytes": 919,
+      "sha256": "E6419BC28A2A0DEB4F3C91072154A3466C4F417EC84626F6CD035735C2DB2175"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\07-Creating-a-Pipeline.md",
+      "bytes": 919,
+      "sha256": "069E42E9EC6716642171D49E3F1B74533F9CCB18E78388152C7116FE08DED834"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\08-Running-Bounded-A4-Autonomy.md",
+      "bytes": 927,
+      "sha256": "268EDA49E296CDBE35C0113571B0636FFE6C783EC54CA91787D2BA0D1B3F4617"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\09-WATT-Energy-Demo.md",
+      "bytes": 916,
+      "sha256": "847B0158D9636845B6728AD7A415A1523FBB3DD99297522A013E942F433E2958"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\10-G3T-Communications-Demo.md",
+      "bytes": 923,
+      "sha256": "6502184C4C0039AA6A8FFDBD22B946AD661F6E3F9E7F77EB3A2A91BF1D309E11"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\11-RetroBank-Reconciliation-Demo.md",
+      "bytes": 929,
+      "sha256": "D1594E46E9E4635B7BDDC5D83B70736E3B78AEC77FD62BA2348C1E8E5863ED71"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\12-Model-Routing-Demo.md",
+      "bytes": 918,
+      "sha256": "6C2C76D1A59C5B15F6A60B2471A183FA7DC41AFDCD5A18F57CC78AF837ACF769"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\13-Incident-Rollback-and-Recovery.md",
+      "bytes": 932,
+      "sha256": "6EEFAC68847C8BCE4B7D4B73F7857F5ED17441675A052421429E3C9861E99CBF"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\14-Commercial-Service-Provisioning.md",
+      "bytes": 931,
+      "sha256": "840F3DBFEA75631F61A08C9AEC4D56259EB73A0D7D5BD561DE96169A29CEEDFA"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\15-Adding-a-Machine-or-Site.md",
+      "bytes": 924,
+      "sha256": "16E707101E7080BF1AC1BD977884AFEB97FFC7FF3C91704FCEA2A5642FA64E5D"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\16-Backup-Restore-and-Disaster-Recovery.md",
+      "bytes": 938,
+      "sha256": "F2566D30FFC0BDB69FC9D5DCBBDD155B4694A91248AF47B89C36A7489EBD8285"
+    },
+    {
+      "path": "mirror\\panoptic-master-integration\\training\\README.md",
+      "bytes": 632,
+      "sha256": "2F2D82C6209D339E92DD3DC4FF0417336C2B8A206B7C99AEE5799556F7E0467F"
+    },
+    {
+      "path": "mirror\\README.md",
+      "bytes": 645,
+      "sha256": "B4AAA0934F8FCCABE960B049D096A1D032E8D906791A3936AFD6A141187B9BC5"
+    }
+  ]
+}

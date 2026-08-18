@@ -1,0 +1,16 @@
+{
+  "provisioningId": "930327ac-57a4-4aed-9dce-78c8cee97bb2",
+  "organizationId": "DEMO-CLIENT",
+  "serviceId": "KBOX-MANAGED-AI",
+  "module": "AI",
+  "entitlement": "TENANT_SCOPED",
+  "founderRootAccess": false,
+  "status": "SIMULATED_PROVISIONING",
+  "accounting": {
+    "internalValueCents": 0,
+    "invoicedCents": 0,
+    "collectedCashCents": 0,
+    "bankSettlement": false
+  },
+  "createdAt": "2026-08-18T06:16:39.252Z"
+}

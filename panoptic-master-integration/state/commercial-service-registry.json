@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "1.0",
+  "operatorModel": "FOUNDER_OPERATED",
+  "clientRootAccess": false,
+  "serviceModels": [
+    "managed-service-subscription",
+    "per-site-kbox",
+    "per-module-subscription",
+    "usage-metered",
+    "integration-setup-fee",
+    "managed-operations",
+    "verified-outcome-value-share-when-lawful",
+    "private-enterprise-deployment",
+    "developer-api-consumption"
+  ],
+  "accountingStates": [
+    "INTERNAL_VALUE",
+    "CONTRACTED_VALUE",
+    "INVOICED",
+    "PAYMENT_INITIATED",
+    "SETTLEMENT_CONFIRMED",
+    "CASH_RECEIVED",
+    "REFUND_OR_REVERSAL"
+  ],
+  "rule": "No accounting state may be promoted without independent evidence."
+}

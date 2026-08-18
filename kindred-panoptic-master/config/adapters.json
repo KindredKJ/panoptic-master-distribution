@@ -1,0 +1,44 @@
+[
+  {
+    "id": "retrobank",
+    "domain": "fiscal",
+    "mode": "local-ledger",
+    "verified": true,
+    "external": false
+  },
+  {
+    "id": "local-intelligence",
+    "domain": "intelligence",
+    "mode": "local",
+    "verified": true,
+    "external": false
+  },
+  {
+    "id": "kindred-watt",
+    "domain": "energy",
+    "mode": "external-adapter-required",
+    "verified": false,
+    "external": true
+  },
+  {
+    "id": "g3t-connected",
+    "domain": "communications",
+    "mode": "external-adapter-required",
+    "verified": false,
+    "external": true
+  },
+  {
+    "id": "kindred-cloud",
+    "domain": "infrastructure",
+    "mode": "external-adapter-required",
+    "verified": false,
+    "external": true
+  },
+  {
+    "id": "stratacast",
+    "domain": "spatial",
+    "mode": "external-adapter-required",
+    "verified": false,
+    "external": true
+  }
+]
